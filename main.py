@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.preprocessing import LabelEncoder
 
 df = pd.read_csv('loan_dataset_20000.csv')
 
@@ -17,3 +18,23 @@ print(df.isnull().sum())
 print('\nTarget Distribution')
 print(df['loan_paid_back'].value_counts())
 print(df['loan_paid_back'].value_counts(normalize=True) * 100)
+
+#   Dataset Information
+print('\nDataset Information')
+print(df.info())
+
+print('\nCategorical Columns')
+categorical_columns = df.select_dtypes(include=['object', 'string']).columns
+print(categorical_columns)
+
+
+#   Encoding
+encoder = LabelEncoder()
+for col in categorical_columns:
+    df[col] = encoder.fit_transform(df[col])
+    
+print("\nEncoded Dataset:")
+print(df.head())
+
+print("\nUpdated Data Types:")
+print(df.dtypes)
