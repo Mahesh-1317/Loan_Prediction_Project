@@ -1,7 +1,12 @@
 import pandas as pd
+from pathlib import Path
 from sklearn.preprocessing import LabelEncoder
 
-df = pd.read_csv('loan_dataset_20000.csv')
+# df = pd.read_csv('loan_dataset_20000.csv')
+BASE_DIR = Path(__file__).parent
+csv_path = BASE_DIR / "loan_dataset_20000.csv"
+
+df = pd.read_csv(csv_path)
 
 print(df.shape)
 print(df.dtypes)
