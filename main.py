@@ -123,6 +123,78 @@ xgb_model = XGBClassifier(
 xgb_model.fit(X_train, y_train)
 
 print("All Models Trained Successfully!")
-# print(df.shape)
-# print(df.dtypes)
-# print(X_train_scaled.shape)
+
+
+# POINT 5 : MODEL EVALUATION
+
+from sklearn.metrics import (
+    accuracy_score,
+    precision_score,
+    recall_score,
+    f1_score,
+    confusion_matrix,
+    ConfusionMatrixDisplay
+)
+
+import matplotlib.pyplot as plt
+
+# Predictions
+y_pred_log = log_model.predict(X_test_scaled)
+y_pred_rf = rf_model.predict(X_test)
+y_pred_xgb = xgb_model.predict(X_test)
+
+
+# ACCURACY
+print("\n========== ACCURACY ==========")
+
+print("Logistic Regression :", accuracy_score(y_test, y_pred_log))
+print("Random Forest :", accuracy_score(y_test, y_pred_rf))
+print("XGBoost :", accuracy_score(y_test, y_pred_xgb))
+
+# PRECISION
+print("\n========== PRECISION ==========")
+
+print("Logistic Regression :", precision_score(y_test, y_pred_log))
+print("Random Forest :", precision_score(y_test, y_pred_rf))
+print("XGBoost :", precision_score(y_test, y_pred_xgb))
+
+# RECALL
+
+print("\n========== RECALL ==========")
+
+print("Logistic Regression :", recall_score(y_test, y_pred_log))
+print("Random Forest :", recall_score(y_test, y_pred_rf))
+print("XGBoost :", recall_score(y_test, y_pred_xgb))
+
+# F1 SCORE
+
+print("\n========== F1 SCORE ==========")
+
+print("Logistic Regression :", f1_score(y_test, y_pred_log))
+print("Random Forest :", f1_score(y_test, y_pred_rf))
+print("XGBoost :", f1_score(y_test, y_pred_xgb))
+
+# CONFUSION MATRIX
+ConfusionMatrixDisplay.from_predictions(
+    y_test,
+    y_pred_log
+)
+
+plt.title("Logistic Regression")
+plt.show()
+
+ConfusionMatrixDisplay.from_predictions(
+    y_test,
+    y_pred_rf
+)
+
+plt.title("Random Forest")
+plt.show()
+
+ConfusionMatrixDisplay.from_predictions(
+    y_test,
+    y_pred_xgb
+)
+
+plt.title("XGBoost")
+plt.show()
