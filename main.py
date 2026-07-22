@@ -85,3 +85,44 @@ corr = df.corr(numeric_only=True)
 sns.heatmap(corr,annot=True,cmap="coolwarm",fmt=".2f")
 plt.title("Correlation Heatmap")
 plt.show()
+
+
+#   Model Training
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
+from xgboost import XGBClassifier
+
+# Features and Target
+X = df.drop("loan_paid_back", axis=1)
+y = df["loan_paid_back"]
+
+# Train Test Split
+X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.20,random_state=42
+)
+
+from sklearn.preprocessing import StandardScaler
+
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+
+# Logistic Regression
+log_model = LogisticRegression(solver="liblinear",max_iter=5000,random_state=42)
+log_model.fit(X_train, y_train)
+
+# Random Forest
+rf_model = RandomForestClassifier(random_state=42)
+rf_model.fit(X_train, y_train)
+
+# XGBoost
+xgb_model = XGBClassifier(
+    eval_metric="logloss",
+    random_state=42
+)
+xgb_model.fit(X_train, y_train)
+
+print("All Models Trained Successfully!")
+# print(df.shape)
+# print(df.dtypes)
+# print(X_train_scaled.shape)
