@@ -1,0 +1,701 @@
+age,gender,marital_status,education_level,annual_income,monthly_income,employment_status,debt_to_income_ratio,credit_score,loan_amount,loan_purpose,interest_rate,loan_term,installment,grade_subgrade,num_of_open_accounts,total_credit_limit,current_balance,delinquency_history,public_records,num_of_delinquencies,loan_paid_back
+59,Male,Married,Master's,24240.19,2020.02,Employed,0.074,743,17173.72,Car,13.39,36,581.88,B5,7,40833.47,24302.07,1,0,1,1
+72,Female,Married,Bachelor's,20172.98,1681.08,Employed,0.219,531,22663.89,Debt consolidation,17.81,60,573.17,F1,5,27968.01,10803.01,1,0,3,1
+49,Female,Single,High School,26181.8,2181.82,Employed,0.234,779,3631.36,Business,9.53,60,76.32,B4,2,15502.25,4505.44,0,0,0,1
+35,Female,Single,High School,11873.84,989.49,Employed,0.264,809,14939.23,Other,7.99,36,468.07,A5,7,18157.79,5525.63,4,0,5,1
+63,Other,Single,Other,25326.44,2110.54,Employed,0.26,663,16551.71,Car,15.2,60,395.5,D5,1,17467.56,3593.91,2,0,2,1
+28,Male,Single,High School,55559.8,4629.98,Employed,0.081,774,12724.02,Debt consolidation,12.73,60,287.75,B1,3,76147.61,14885.25,0,0,1,1
+41,Male,Single,Bachelor's,24642.88,2053.57,Unemployed,0.165,742,5905.27,Car,12.48,36,197.5,B3,6,18380.15,12683.33,3,0,3,0
+59,Female,Single,Bachelor's,52610.69,4384.22,Employed,0.135,810,15136.35,Debt consolidation,8.45,36,477.47,A3,4,75260.33,13768.13,0,0,0,1
+39,Other,Single,High School,62922.05,5243.5,Employed,0.074,724,500,Home,9.95,36,16.12,C4,6,42759.4,15596.93,3,0,4,1
+43,Female,Single,High School,53439.89,4453.32,Employed,0.375,796,14712.38,Car,11.81,36,487.33,B1,4,40629.06,15965.92,2,0,2,0
+31,Female,Married,High School,37067.58,3088.96,Self-employed,0.166,722,24847.59,Car,15.16,36,863.3,C3,3,31600.7,16748.87,1,0,2,1
+31,Female,Married,Bachelor's,73500.9,6125.08,Employed,0.17,687,500,Business,12.82,36,16.8,C2,6,77679.01,53010.23,1,0,2,1
+44,Male,Single,Master's,71284.88,5940.41,Employed,0.313,738,16352.99,Debt consolidation,10.22,36,529.36,C4,2,57020.85,36722.12,0,0,0,1
+73,Female,Married,Bachelor's,23763.07,1980.26,Employed,0.272,637,18191.26,Home,14.32,36,624.57,D4,5,28673.92,4814.55,4,0,4,1
+56,Female,Divorced,Bachelor's,21597.98,1799.83,Employed,0.153,764,14908.25,Medical,8.5,36,470.62,B1,8,30287.45,4164.77,0,0,1,1
+60,Female,Married,Bachelor's,27877.04,2323.09,Student,0.269,618,15819.7,Business,12.33,36,527.94,D3,4,36113.16,32635.74,6,0,6,0
+44,Male,Widowed,Master's,30137.96,2511.5,Employed,0.059,720,10886.6,Home,14.09,36,372.55,C1,1,39076.27,4781.56,1,0,1,1
+23,Male,Single,Bachelor's,73356.57,6113.05,Employed,0.092,589,28579.38,Debt consolidation,15.89,60,693.33,E3,5,102355.5,38663.29,4,0,5,1
+42,Male,Married,High School,58633.23,4886.1,Employed,0.21,578,16116.67,Medical,17.24,60,402.62,F4,4,86242.85,65905.57,5,0,5,1
+73,Male,Married,Bachelor's,39383.19,3281.93,Employed,0.229,732,19078.95,Debt consolidation,12.79,60,432.06,C5,3,30102.24,13122.81,2,0,2,1
+22,Female,Single,Master's,40245.27,3353.77,Employed,0.113,564,9831.78,Debt consolidation,15.51,36,343.28,F4,2,56819.25,41201.7,1,0,2,0
+44,Male,Widowed,Master's,18875.14,1572.93,Employed,0.158,694,9607.62,Car,12.14,36,319.75,C5,5,25809.11,21463.92,4,0,5,1
+64,Male,Divorced,PhD,70246.14,5853.84,Employed,0.1,440,8853.43,Debt consolidation,14.32,36,303.97,F3,4,79490.56,59161.78,4,0,4,1
+50,Male,Single,High School,40422.15,3368.51,Employed,0.067,753,19415.58,Debt consolidation,11.79,36,642.93,B5,6,65806.15,48129.85,2,1,2,1
+58,Female,Divorced,Other,19364.05,1613.67,Self-employed,0.14,619,18128.74,Education,13.84,36,618.19,D3,8,25883.17,15321.34,4,0,4,1
+22,Female,Single,High School,13220.54,1101.71,Self-employed,0.122,709,9692.3,Debt consolidation,13.68,36,329.76,C2,6,23805.97,19098.49,2,0,3,1
+41,Male,Married,High School,16936.71,1411.39,Employed,0.425,705,18627.46,Other,13.52,36,632.31,C5,3,25978.62,15219.35,1,0,1,1
+53,Male,Single,Bachelor's,37957.37,3163.11,Employed,0.135,739,9656.48,Car,8.71,36,305.77,C1,4,46657.36,37539.24,2,0,3,1
+32,Male,Single,High School,7884.14,657.01,Employed,0.222,692,5772.28,Business,12.26,36,192.44,C1,9,18319.12,16782.77,0,0,1,1
+42,Female,Married,Bachelor's,18014.35,1501.2,Employed,0.212,702,11345.92,Home,13.82,60,262.94,C3,5,30467.37,27089.2,0,0,1,1
+64,Male,Single,PhD,48453.69,4037.81,Employed,0.195,610,5285.92,Business,10.52,60,113.67,D3,1,32166.14,21365.3,5,0,7,1
+45,Female,Single,Other,27944.46,2328.7,Self-employed,0.132,553,6268.32,Debt consolidation,15.01,36,217.32,F5,3,40793.67,23122.33,2,0,3,0
+69,Male,Single,Bachelor's,12516.84,1043.07,Employed,0.562,818,10469.04,Debt consolidation,10.09,36,338.25,A2,6,20412.01,17283.32,3,0,3,1
+47,Male,Single,Bachelor's,24864.78,2072.06,Employed,0.111,629,6321.47,Debt consolidation,9.89,36,203.65,D2,5,23358.63,18679.74,4,0,4,1
+62,Female,Married,Other,34248.84,2854.07,Employed,0.09,685,10673.12,Debt consolidation,11.68,36,352.87,C1,7,45509.72,21928.41,0,1,1,0
+48,Male,Single,Bachelor's,63805.67,5317.14,Employed,0.199,657,22298.23,Other,14.12,36,763.4,D2,7,61717.59,54000.53,4,0,4,1
+36,Female,Married,Other,47699.49,3974.96,Unemployed,0.218,806,23171.53,Debt consolidation,7.34,36,719.08,A4,5,75385.65,47058.83,3,0,5,0
+35,Male,Single,PhD,46684.56,3890.38,Employed,0.101,717,13275.22,Debt consolidation,13.28,36,449.09,C3,6,36244.87,9210.08,0,0,0,1
+67,Female,Single,High School,55926.72,4660.56,Self-employed,0.088,727,20613.2,Debt consolidation,13.75,60,476.97,C2,4,77521.8,6832.02,0,0,2,1
+71,Female,Single,High School,13295.77,1107.98,Employed,0.117,623,13225.93,Car,15.11,36,459.19,D2,4,12599.76,8654.39,3,0,3,1
+64,Female,Married,Bachelor's,76626.81,6385.57,Employed,0.154,750,8606.43,Business,11.97,36,285.73,B1,8,115966.9,6219.9,3,0,4,1
+75,Male,Single,Master's,76748.44,6395.7,Retired,0.163,759,2284.88,Debt consolidation,10.14,36,73.88,B5,5,116481.63,42562.91,1,0,1,1
+72,Male,Married,Master's,25153.1,2096.09,Self-employed,0.04,719,17789.74,Medical,14.53,36,612.6,C4,5,40551.35,12079.77,2,0,2,1
+23,Male,Single,Bachelor's,6018.9,501.58,Unemployed,0.104,602,26387.55,Debt consolidation,16.3,36,931.62,E3,5,9863.04,9349.22,0,0,1,0
+57,Female,Married,High School,80634.33,6719.53,Self-employed,0.241,693,22884.38,Medical,8.01,60,464.12,C2,4,76328.19,53751.23,5,0,6,1
+71,Female,Single,High School,6969.14,580.76,Employed,0.206,727,23939.96,Car,10.73,60,517.29,C1,4,8478.63,496.35,4,0,5,1
+27,Male,Married,Other,45571.44,3797.62,Employed,0.143,714,8316.32,Debt consolidation,11.87,60,184.45,C4,5,70307.77,9683.34,0,0,1,1
+41,Male,Single,Bachelor's,27707.6,2308.97,Employed,0.069,673,10351.45,Debt consolidation,14.6,36,356.81,C5,8,35407.59,25604.13,2,0,2,1
+29,Female,Single,Bachelor's,25314.19,2109.52,Employed,0.107,608,21421.74,Debt consolidation,14.44,60,503.35,E5,4,24710.54,7157.97,1,0,2,1
+59,Male,Single,PhD,28021.38,2335.12,Employed,0.183,697,10606.79,Other,12.62,36,355.45,C4,7,33526.47,1683.26,3,0,3,0
+38,Male,Single,Master's,39324.09,3277.01,Employed,0.171,593,15284.49,Debt consolidation,16.08,36,537.96,E3,7,46987.9,15402.09,3,0,3,1
+24,Male,Married,Bachelor's,10032.47,836.04,Employed,0.098,643,19958.98,Education,13.91,60,463.48,D2,10,15232.58,1401.49,2,0,2,1
+45,Female,Widowed,Bachelor's,32388.96,2699.08,Unemployed,0.44,598,18787.69,Debt consolidation,17.06,36,670.39,E3,6,40836.89,32116.05,4,0,4,0
+34,Female,Single,Master's,15417.43,1284.79,Employed,0.09,665,500,Other,13.79,36,17.04,D2,7,26456.98,3470.3,4,0,7,1
+70,Other,Married,Bachelor's,26839.94,2236.66,Employed,0.039,658,33869,Other,16.64,36,1201.46,D1,4,38585.5,20053.96,2,0,3,1
+29,Male,Single,Bachelor's,40020.77,3335.06,Employed,0.073,655,23131.95,Home,14.15,60,540.04,D5,5,48608.42,3133.64,1,0,1,1
+46,Female,Single,High School,61428.94,5119.08,Unemployed,0.294,580,2855.15,Medical,12.38,36,95.35,E1,5,40047.57,34659.95,3,0,4,0
+73,Female,Single,Master's,23364.87,1947.07,Employed,0.098,785,19723.17,Business,11.29,60,431.69,B3,3,17727.96,2849.65,2,0,3,1
+22,Male,Married,Other,106317.95,8859.83,Employed,0.106,648,9020.84,Debt consolidation,14.01,36,308.35,D3,6,90450.17,4818.95,1,0,3,1
+40,Female,Single,Other,21245.26,1770.44,Self-employed,0.358,652,17952.71,Business,13.23,36,606.89,D4,8,30292.09,14114.73,6,0,7,1
+48,Male,Married,Bachelor's,21576.38,1798.03,Employed,0.147,587,22296.51,Education,15.06,36,773.57,E1,4,19484.61,15244.96,2,0,3,1
+67,Male,Single,Bachelor's,67313.56,5609.46,Employed,0.097,605,5207.8,Vacation,12.71,60,117.72,E2,7,83247.84,78866.44,2,0,2,1
+27,Male,Single,High School,31299.21,2608.27,Retired,0.221,707,13459.01,Debt consolidation,13.32,36,455.56,C5,6,50804.49,35883.45,1,0,1,1
+64,Male,Single,Bachelor's,40464.81,3372.07,Unemployed,0.165,791,22931.8,Other,8.65,36,725.5,B3,7,50221.45,28359.14,0,1,0,1
+28,Female,Single,Bachelor's,27080.78,2256.73,Employed,0.094,708,41679.04,Business,11.1,60,908.28,C2,2,34160.51,26050.45,1,0,2,1
+67,Male,Single,Master's,29019.47,2418.29,Self-employed,0.319,682,12183.94,Car,10.89,36,398.25,C2,3,45826.67,31322.33,3,0,4,1
+55,Male,Single,High School,44794.43,3732.87,Employed,0.09,733,2044.83,Business,10.44,36,66.4,C5,4,47189.73,11009.78,1,0,1,1
+34,Male,Single,Bachelor's,77862.02,6488.5,Employed,0.052,662,6954.56,Debt consolidation,13.02,36,234.39,D4,4,54523.53,38221.83,2,0,2,1
+37,Female,Married,Bachelor's,39502.26,3291.86,Employed,0.291,667,27060.87,Vacation,14.72,36,934.37,D2,7,55874.14,3656.01,4,1,6,1
+56,Female,Single,High School,46969.67,3914.14,Employed,0.033,732,17320.78,Other,11.36,36,570.02,C3,3,34070.61,10824.32,1,0,1,1
+70,Female,Married,High School,65446.1,5453.84,Employed,0.057,665,15303.67,Car,11.86,36,507.28,D5,3,60655.76,30859.15,3,0,3,1
+60,Female,Single,Bachelor's,27471.78,2289.32,Self-employed,0.075,798,30714.91,Home,6.49,36,941.24,B3,6,42637.75,16777.8,3,0,3,1
+24,Male,Married,Bachelor's,20180.13,1681.68,Employed,0.354,646,10419.48,Debt consolidation,10.43,60,223.59,D3,8,27728.17,15539.42,3,0,3,1
+22,Male,Single,Bachelor's,19642.89,1636.91,Employed,0.085,645,20987.63,Debt consolidation,14.86,60,497.75,D4,9,23777.34,11799.41,3,0,4,1
+26,Female,Single,Bachelor's,21341.14,1778.43,Employed,0.254,594,9605.16,Other,14.35,36,329.92,E1,9,27770.2,23301.94,2,0,2,1
+74,Male,Widowed,High School,19411.96,1617.66,Employed,0.118,686,11636.29,Other,12.94,36,391.74,C4,6,29245.95,13529.88,0,0,1,1
+62,Male,Single,High School,70252.63,5854.39,Employed,0.293,816,14260.74,Medical,7.82,36,445.7,A3,5,88552.78,10801.64,2,0,3,1
+24,Female,Married,High School,11724.35,977.03,Employed,0.272,796,4185.81,Home,7.13,36,129.49,B5,4,12229.12,4101.02,2,0,2,1
+74,Male,Married,High School,51764.58,4313.72,Employed,0.2,714,3953.41,Business,12.7,60,89.35,C4,6,60246.37,3268.62,2,0,3,1
+49,Male,Single,Master's,17412.33,1451.03,Employed,0.126,692,12889.65,Debt consolidation,15.25,36,448.4,C5,2,14588.51,2282.6,2,0,2,1
+38,Male,Divorced,High School,106377.8,8864.82,Employed,0.135,575,10809.07,Debt consolidation,12.45,36,361.34,F1,4,93921.55,44205.03,3,0,3,1
+46,Male,Married,High School,46235.93,3852.99,Employed,0.24,723,23461.16,Medical,7.59,36,730.76,C2,6,34847.81,6069.86,1,0,1,1
+64,Female,Married,High School,21467.5,1788.96,Employed,0.096,632,4489.55,Other,16.43,36,158.79,D4,4,26864.2,16248.31,6,2,6,1
+54,Female,Widowed,Bachelor's,26239.21,2186.6,Self-employed,0.065,731,22433.03,Home,9.6,36,719.65,C3,3,19450.13,9693.8,2,0,3,1
+30,Female,Married,Bachelor's,34533.91,2877.83,Employed,0.252,746,15912.88,Business,14.25,36,545.8,B2,8,30213.25,13875.49,2,0,3,1
+56,Female,Single,High School,53177.17,4431.43,Employed,0.413,850,10942.58,Home,11.09,36,358.71,A3,5,33860.39,20911.03,3,0,4,1
+34,Male,Married,High School,44424.93,3702.08,Employed,0.145,661,17284.88,Business,15.05,36,599.61,D5,5,66695.67,46016.26,0,0,0,1
+51,Male,Single,Other,36023,3001.92,Employed,0.133,724,17092.49,Debt consolidation,10.05,60,363.59,C5,1,44626.95,42350.14,2,0,2,1
+68,Male,Single,PhD,23762.57,1980.21,Retired,0.179,726,8737.08,Home,11.16,36,286.7,C3,2,22467.31,21216.64,0,0,0,1
+35,Male,Married,Master's,30518.71,2543.23,Employed,0.141,662,15806.45,Other,14.32,60,370.42,D4,1,38897.78,9318.21,3,0,3,1
+28,Other,Divorced,High School,81238.7,6769.89,Retired,0.116,726,12676.02,Car,12.8,36,425.89,C5,10,95993.99,20371.93,3,0,3,1
+34,Female,Single,Bachelor's,130197.44,10849.79,Unemployed,0.063,693,18042.75,Other,11.53,36,595.24,C2,3,165401.5,76121.42,1,0,2,1
+43,Male,Married,Bachelor's,70374.16,5864.51,Retired,0.119,722,26516.78,Debt consolidation,12.82,36,891.16,C5,8,82886.3,43536.92,2,0,3,1
+60,Male,Single,High School,20462.01,1705.17,Employed,0.295,624,6709.69,Home,15,36,232.59,D5,5,16745.3,5389.47,2,0,3,1
+41,Male,Single,Bachelor's,85786.02,7148.84,Employed,0.102,580,10023.24,Debt consolidation,14.77,36,346.33,E1,5,64606.93,50781.58,7,0,7,0
+36,Male,Married,Bachelor's,29780.08,2481.67,Unemployed,0.272,658,15067.38,Debt consolidation,12.46,36,503.77,D3,2,28543.79,24712.6,5,0,5,0
+65,Male,Divorced,Bachelor's,36385.73,3032.14,Retired,0.239,667,24986.54,Education,16.37,60,612.55,D5,5,48293.63,22394.54,1,0,1,1
+38,Female,Single,Bachelor's,17028.66,1419.06,Self-employed,0.128,663,5745.56,Car,9.16,60,119.72,D5,1,14089.69,4339.74,0,0,0,1
+67,Female,Single,Bachelor's,38876.87,3239.74,Employed,0.382,615,20487.12,Education,11.77,60,453.35,D1,6,59399.96,19005.73,6,0,6,1
+73,Female,Single,Master's,22673.3,1889.44,Unemployed,0.113,736,500,Vacation,13.82,36,17.05,C3,8,34360.55,2890.97,2,0,2,1
+44,Male,Married,Master's,82896.06,6908,Employed,0.077,677,22705,Debt consolidation,12.9,60,515.45,C3,2,77481.84,24865.82,1,0,2,1
+46,Male,Single,Bachelor's,167130.23,13927.52,Unemployed,0.267,804,26375.58,Other,9.35,60,552,A2,5,183155.12,12117.19,3,0,4,0
+45,Female,Single,Bachelor's,36280.64,3023.39,Employed,0.04,653,13374.14,Business,13.56,36,454.24,D1,4,44742.77,34166.82,1,0,2,1
+65,Female,Married,Master's,48353.84,4029.49,Employed,0.139,754,11531.97,Debt consolidation,9.5,36,369.4,B4,4,55296.81,19797.51,1,0,1,1
+61,Female,Single,Other,30193.1,2516.09,Self-employed,0.177,776,13049.15,Other,11.68,36,431.43,B2,5,21257.67,11193.84,0,0,1,1
+49,Female,Single,Bachelor's,39025.81,3252.15,Self-employed,0.101,638,21653.22,Other,13.41,60,497.23,D4,5,45509.05,21697.73,2,0,2,1
+35,Female,Married,Bachelor's,25469.37,2122.45,Employed,0.213,713,902.21,Debt consolidation,13.04,36,30.42,C4,11,46160.12,37115.36,4,0,5,1
+65,Female,Divorced,Master's,43773.89,3647.82,Employed,0.19,713,25948.79,Education,10.74,60,560.83,C3,7,46134.09,33901.16,2,0,2,1
+21,Male,Divorced,Bachelor's,46216.07,3851.34,Employed,0.053,580,9054.32,Debt consolidation,15.31,36,315.25,E4,6,43173.83,2767.96,4,0,5,1
+45,Female,Single,Master's,43446.12,3620.51,Self-employed,0.114,738,32992.76,Debt consolidation,11.77,36,1092.21,C5,2,42260.9,21293.86,2,0,4,1
+27,Male,Divorced,Master's,56839.29,4736.61,Employed,0.061,702,11700.41,Debt consolidation,11.53,36,386,C1,3,75474.13,5677.84,2,1,7,1
+29,Male,Married,Master's,29184.08,2432.01,Self-employed,0.01,631,6996.65,Education,15.53,36,244.36,D2,4,24219.14,14989.18,0,0,0,1
+44,Female,Single,Bachelor's,182390.52,15199.21,Retired,0.069,651,16438.26,Debt consolidation,13.71,60,380.02,D5,8,191394.45,88584.82,2,0,3,1
+21,Male,Married,High School,24550.59,2045.88,Student,0.468,680,17972.01,Medical,11.58,36,593.33,C3,5,37601.82,11264.4,2,0,2,0
+64,Male,Single,Bachelor's,24397.07,2033.09,Employed,0.125,725,12732.53,Car,11.55,36,420.17,C3,1,27122.83,7160.96,1,0,2,1
+28,Male,Married,High School,8026.57,668.88,Employed,0.281,671,500,Debt consolidation,12.16,60,11.16,C2,3,12118.92,4197.59,3,0,3,1
+44,Male,Married,Bachelor's,57257.11,4771.43,Employed,0.094,591,11414.78,Business,14.9,36,395.14,E4,3,72768.6,50462.17,1,0,3,1
+31,Male,Married,Master's,6528.04,544,Employed,0.301,703,28674.36,Debt consolidation,16.5,60,704.95,C4,3,10847.7,5992.38,0,0,0,1
+71,Male,Single,Bachelor's,29583.92,2465.33,Self-employed,0.036,661,35661.52,Education,12.77,36,1197.63,D5,7,49860.88,46503.47,4,0,5,1
+37,Male,Married,High School,23126.73,1927.23,Employed,0.24,685,40266.07,Debt consolidation,16.09,36,1417.43,C4,5,22703.42,7463.51,5,0,6,0
+28,Male,Single,Bachelor's,15318.03,1276.5,Employed,0.085,697,14930.8,Education,15.31,36,519.85,C5,6,15816.69,8769.82,0,0,0,0
+55,Other,Divorced,High School,37737.86,3144.82,Employed,0.208,787,24161.05,Education,10.13,60,514.9,B3,5,55270.55,18158.03,1,0,1,1
+55,Male,Married,Master's,104853.33,8737.78,Employed,0.199,580,14081.82,Car,14.47,36,484.5,E1,4,114548.03,19519.28,5,0,5,1
+53,Male,Single,Master's,56273.32,4689.44,Unemployed,0.244,767,16836.33,Car,12.55,36,563.64,B4,5,86448.37,28158.83,0,0,1,0
+25,Female,Single,Master's,22976.89,1914.74,Employed,0.049,748,20935.37,Debt consolidation,10.85,60,453.62,B5,5,34351.47,13390.86,2,0,2,1
+62,Female,Married,High School,119860.8,9988.4,Employed,0.098,623,20671.31,Debt consolidation,9.65,36,663.61,D3,4,170150.63,76822,1,0,2,1
+59,Female,Married,High School,23395.38,1949.62,Employed,0.043,760,17757.35,Business,11.02,60,386.26,B1,4,35729.24,31848.96,2,0,2,1
+61,Male,Married,PhD,69993.32,5832.78,Employed,0.047,613,18166.22,Education,13.94,36,620.35,D4,4,78726.72,53894.97,1,0,2,1
+48,Female,Single,High School,12802.65,1066.89,Unemployed,0.197,713,17686.21,Other,12.36,60,396.65,C1,7,22636.41,5332.47,4,0,4,0
+27,Female,Married,Bachelor's,31591.34,2632.61,Self-employed,0.028,624,25134.1,Debt consolidation,14.64,60,593.2,D3,6,42503.57,35038.75,1,0,3,1
+29,Female,Single,Master's,17797.35,1483.11,Employed,0.233,672,7638.21,Debt consolidation,10.85,36,249.52,C1,5,18506.03,15207.83,2,0,2,1
+28,Female,Married,Bachelor's,126308.04,10525.67,Student,0.24,723,10559.42,Debt consolidation,11.22,36,346.8,C3,8,132129.15,40592.19,4,0,5,0
+32,Female,Divorced,Bachelor's,23971.59,1997.63,Employed,0.185,694,10849.28,Medical,10.69,60,234.22,C4,7,40822.55,30211.99,0,0,0,1
+54,Female,Married,High School,19680.97,1640.08,Employed,0.048,665,18419.66,Debt consolidation,12.09,36,612.59,D4,7,34057.72,9232,1,0,2,1
+53,Female,Single,Other,48006.18,4000.52,Self-employed,0.187,692,21910.74,Education,10.32,36,710.29,C1,7,59243.34,34559.18,4,0,6,1
+68,Male,Widowed,Bachelor's,31263.87,2605.32,Retired,0.349,641,8325.04,Debt consolidation,14.87,36,288.06,D5,2,25772.75,14372.85,5,0,6,1
+75,Female,Single,High School,131685.53,10973.79,Unemployed,0.4,677,500,Education,9.11,36,15.93,C5,10,146974.01,71521.54,3,0,3,0
+43,Female,Married,Bachelor's,43706.81,3642.23,Employed,0.191,710,30605.55,Debt consolidation,12.79,36,1028.13,C3,3,57003.45,17797.96,2,0,3,1
+44,Male,Married,High School,37767.95,3147.33,Employed,0.205,730,15727.55,Vacation,12.02,60,350.01,C4,4,34031.43,18092.33,2,0,3,1
+57,Other,Single,Bachelor's,55952.16,4662.68,Unemployed,0.307,522,22775.29,Car,13.49,36,772.78,F5,7,47313.35,44290.09,4,0,6,0
+55,Male,Single,Bachelor's,31790.41,2649.2,Unemployed,0.097,729,9133.98,Debt consolidation,12.2,36,304.25,C3,7,51085.86,15990.65,0,0,2,1
+64,Male,Single,High School,41889.24,3490.77,Employed,0.07,575,13429.31,Medical,15.86,36,471.21,F3,8,42875.76,2857.69,3,0,3,1
+60,Female,Married,High School,21970.6,1830.88,Student,0.13,669,17696.95,Debt consolidation,13.77,36,602.86,D1,4,22972.57,12143.9,2,0,2,0
+42,Male,Married,High School,25006.4,2083.87,Employed,0.209,666,13980.08,Debt consolidation,10.93,36,457.23,D2,6,29477.08,21255.53,3,0,4,0
+47,Male,Married,High School,20987.88,1748.99,Employed,0.067,533,10636.93,Other,11.9,60,236.08,F3,2,21867.47,6563.79,0,0,1,1
+55,Male,Single,Bachelor's,45897.46,3824.79,Employed,0.206,810,14204,Other,11.04,60,309.11,A4,8,52541.02,7091.68,4,0,5,1
+21,Male,Married,Master's,24364.09,2030.34,Employed,0.046,633,7313.37,Business,10.67,36,238.29,D1,9,23793.91,22281.05,2,0,4,1
+55,Male,Married,High School,57979.19,4831.6,Employed,0.261,629,13254.56,Car,11.96,60,294.57,D4,5,39471,7133.06,0,0,0,0
+57,Male,Single,High School,21604.71,1800.39,Unemployed,0.01,850,3523.01,Car,6.45,60,68.85,A4,3,25346.6,11315.85,1,0,2,1
+67,Male,Single,Bachelor's,20329.27,1694.11,Unemployed,0.124,556,11670.94,Debt consolidation,14.24,36,400.25,F5,6,16834.64,2439.02,2,0,3,0
+34,Other,Single,Bachelor's,41903.6,3491.97,Employed,0.018,673,13321.75,Debt consolidation,12.12,36,443.24,C1,4,36750.32,16547.05,1,0,2,1
+23,Other,Married,Master's,39463.41,3288.62,Retired,0.071,702,14200.63,Business,7.34,36,440.69,C1,2,36171.7,4237.42,2,0,3,1
+21,Male,Married,Other,60728.46,5060.7,Retired,0.296,674,9172.36,Debt consolidation,13.92,36,313.13,C5,6,46604.94,14282.98,5,0,5,1
+25,Female,Married,Bachelor's,17864.88,1488.74,Employed,0.204,575,7827.92,Debt consolidation,14.64,36,269.98,F2,3,27040.07,17294.38,3,2,3,1
+46,Male,Married,High School,14428.05,1202.34,Unemployed,0.247,630,13289.06,Business,13.78,36,452.77,D5,4,14417.15,4852.01,1,0,2,0
+75,Male,Single,High School,75333.37,6277.78,Employed,0.158,702,14285.8,Debt consolidation,11.79,36,473.06,C4,5,78223.78,51872.95,2,0,2,1
+34,Male,Married,High School,16113.74,1342.81,Employed,0.19,745,15574.09,Car,11.79,36,515.72,B2,3,19793.11,9171.57,1,0,3,1
+59,Female,Single,Master's,59746.5,4978.88,Self-employed,0.082,788,14432.59,Car,10.93,60,313.3,B1,7,52773.13,28746.75,4,0,4,1
+47,Female,Married,Bachelor's,8857.53,738.13,Employed,0.173,673,11581.36,Medical,11.9,36,384.11,C4,4,9029.37,4735.24,2,0,2,1
+29,Male,Single,High School,51061.39,4255.12,Employed,0.116,740,9598.11,Debt consolidation,13.89,36,327.53,B2,4,50566.47,18079.22,3,0,3,1
+35,Male,Single,Master's,36071.68,3005.97,Employed,0.274,751,24719.93,Debt consolidation,10.54,36,803.92,B2,6,48786.47,10166.8,1,0,1,0
+35,Male,Married,Master's,46298.12,3858.18,Unemployed,0.096,762,26749.81,Car,9.15,36,852.51,B2,6,62200.04,36801.33,6,0,6,1
+46,Female,Single,PhD,57551.55,4795.96,Employed,0.196,673,15596.14,Debt consolidation,13.65,60,360.07,C3,6,37009.51,9612.28,1,0,1,1
+62,Female,Married,High School,64111.05,5342.59,Employed,0.107,703,17774.27,Education,16.02,36,625.07,C3,7,90089.01,26316.83,2,0,2,1
+33,Male,Widowed,High School,48002.32,4000.19,Retired,0.189,708,25727.88,Education,11.01,60,559.51,C5,2,51987.82,22592.25,2,0,4,1
+71,Female,Married,High School,59933.22,4994.44,Retired,0.174,708,8470.53,Car,10.45,36,275.11,C4,3,84833.15,48869.37,3,0,3,1
+52,Male,Single,Bachelor's,71240.27,5936.69,Employed,0.123,760,5661.45,Vacation,7.97,36,177.33,B2,4,45137.9,28820.19,0,1,1,1
+59,Female,Single,Bachelor's,78010.05,6500.84,Employed,0.33,673,7537.98,Home,12.12,60,168.14,C3,5,104519.18,87016.67,2,0,4,1
+69,Female,Married,Master's,49570.48,4130.87,Employed,0.183,709,35531.62,Business,9.57,36,1139.35,C5,4,58663.28,43543.34,1,2,1,1
+72,Male,Single,High School,20571.32,1714.28,Self-employed,0.082,700,15518.16,Car,12.62,60,350.07,C4,7,35486.31,22404.15,0,0,0,1
+52,Female,Married,Bachelor's,31233.01,2602.75,Retired,0.029,592,12562.86,Car,13.47,36,426.14,E1,5,43079.32,37284.11,0,0,0,1
+24,Female,Married,Master's,34216.61,2851.38,Employed,0.034,673,27535.96,Debt consolidation,8.91,36,874.48,C2,5,50924.91,22154.73,1,1,1,1
+50,Male,Married,High School,24152.12,2012.68,Employed,0.046,734,32697.14,Car,10.73,60,706.52,C4,5,33113.13,3205.98,1,0,1,1
+57,Male,Married,High School,18255.3,1521.28,Self-employed,0.068,702,8302.32,Car,10.36,36,269.3,C2,8,33369.62,18978.33,1,0,1,1
+43,Female,Single,Bachelor's,63267.93,5272.33,Self-employed,0.364,580,2853.44,Other,15.57,36,99.71,E4,5,42623.04,6497.6,5,0,5,1
+59,Male,Married,Master's,43485,3623.75,Employed,0.1,721,13430.74,Debt consolidation,11.02,36,439.83,C5,5,30642.37,7341.72,4,0,4,1
+65,Male,Married,Other,24312.14,2026.01,Employed,0.09,721,8580.05,Car,10.22,36,277.74,C2,1,34579.2,24965.3,1,0,1,1
+35,Male,Single,Master's,37146.25,3095.52,Employed,0.151,704,15169.04,Other,13.76,60,351.07,C4,6,24684.5,17115.22,4,0,4,1
+63,Female,Single,Master's,43498.39,3624.87,Self-employed,0.084,776,33826.74,Business,8.72,60,697.6,B2,2,28534.88,17990.91,2,0,3,1
+49,Female,Married,Bachelor's,18176.02,1514.67,Employed,0.126,751,16153.24,Other,10.3,36,523.5,B2,3,13810.26,1215.09,1,0,1,1
+56,Female,Married,High School,22494.34,1874.53,Employed,0.117,641,7308.52,Other,11.96,60,162.43,D3,5,38192.02,26763.33,1,0,2,1
+33,Female,Married,Master's,30079.2,2506.6,Employed,0.051,730,1584.44,Debt consolidation,14.43,36,54.48,C4,0,24329.34,5618.75,2,0,2,1
+52,Male,Married,Other,33092.38,2757.7,Student,0.106,768,9876.9,Car,8.73,36,312.84,B5,3,24932.07,17409.74,2,0,2,1
+27,Female,Married,Bachelor's,13945.69,1162.14,Employed,0.267,672,13767.29,Medical,13.17,36,465,C4,2,11013.11,6508.75,3,0,4,0
+71,Female,Married,Bachelor's,56815.53,4734.63,Employed,0.246,755,1622.55,Debt consolidation,8.87,36,51.5,B2,2,73342.4,67806.39,3,0,4,1
+42,Male,Married,Bachelor's,37001.92,3083.49,Employed,0.108,699,5730.12,Debt consolidation,8.42,36,180.67,C2,5,30123.07,18992.65,1,0,1,1
+48,Male,Single,Other,31288.83,2607.4,Employed,0.237,601,500,Medical,9.66,60,10.54,E2,4,25089.87,11868.89,1,0,3,1
+22,Male,Single,High School,23650.29,1970.86,Employed,0.279,580,21619.27,Education,10.9,36,706.76,E1,6,26652.56,23700.47,2,0,2,1
+62,Female,Married,Master's,19772.06,1647.67,Employed,0.107,644,15876.01,Other,12.54,36,531.41,D2,5,29747.95,13625.89,0,0,4,1
+65,Female,Married,Master's,36662.51,3055.21,Employed,0.256,611,24443.55,Debt consolidation,13.91,60,567.62,D3,5,39367.32,22082.94,1,0,2,1
+73,Female,Single,Master's,39917.29,3326.44,Unemployed,0.197,839,500,Other,10.39,60,10.72,A2,7,29595.3,7619.02,2,0,2,1
+26,Other,Married,Bachelor's,118391.5,9865.96,Employed,0.228,714,16994.57,Education,11.25,36,558.39,C4,3,86140.57,7418.29,3,0,4,1
+48,Male,Single,Other,124949.42,10412.45,Self-employed,0.277,611,14893.19,Business,13.07,36,502.31,D3,5,104566.23,88217.4,2,0,2,1
+48,Female,Single,High School,26356.3,2196.36,Retired,0.084,729,500,Other,15.3,36,17.41,C5,6,20854.65,6041.15,5,0,5,1
+64,Female,Married,High School,20430.19,1702.52,Employed,0.07,596,11047.84,Medical,11.44,36,364,E3,9,28541.48,16211.5,1,0,2,1
+64,Male,Single,Bachelor's,16989.44,1415.79,Student,0.082,601,15467.16,Home,13.5,36,524.88,E2,7,18223.76,7049.85,0,0,1,0
+40,Female,Married,High School,38279.19,3189.93,Employed,0.093,775,6153.63,Car,11.1,60,134.1,B1,7,28247.28,9957.6,1,0,2,1
+50,Male,Divorced,Bachelor's,17177.12,1431.43,Employed,0.279,570,500,Home,17.92,36,18.06,F2,1,24912.37,21811.24,2,0,2,1
+31,Female,Divorced,High School,15871.83,1322.65,Unemployed,0.091,714,23343.33,Education,10.43,60,500.93,C3,4,22166.62,15477.12,2,0,2,1
+75,Female,Single,Master's,23373.61,1947.8,Employed,0.201,627,3728.03,Debt consolidation,12.05,36,123.91,D1,6,30657.26,12432.73,2,0,2,1
+48,Female,Married,Bachelor's,25188.16,2099.01,Employed,0.059,675,32588.93,Debt consolidation,11.49,60,716.55,C1,1,16001.42,14908.02,3,0,4,1
+45,Female,Divorced,Master's,23290.47,1940.87,Employed,0.282,624,7666.46,Debt consolidation,13.74,60,177.35,D2,6,23026.2,20988.31,4,0,4,0
+59,Male,Single,High School,13759.26,1146.6,Unemployed,0.252,588,28644.58,Other,17.34,60,717.14,E3,6,19293.43,2736.4,3,0,3,0
+53,Female,Single,High School,34386.77,2865.56,Employed,0.083,554,16725.89,Debt consolidation,14.85,60,396.59,F4,7,50707.39,43336.01,3,0,3,1
+21,Male,Divorced,High School,34017.49,2834.79,Employed,0.06,768,24609.93,Medical,9.61,60,518.18,B5,3,43434.96,3534.08,2,0,4,1
+47,Female,Single,High School,81034.65,6752.89,Employed,0.071,843,33152.69,Car,8.04,60,672.85,A1,4,78848.81,47930.66,1,0,2,1
+72,Female,Divorced,High School,17235.84,1436.32,Employed,0.317,774,10218.95,Debt consolidation,10.78,60,221.07,B5,5,20195.44,1373.44,5,0,5,1
+33,Female,Married,High School,49807.86,4150.66,Employed,0.415,761,25042.35,Debt consolidation,12.67,36,839.8,B4,2,62399.36,39220.31,4,0,4,1
+61,Male,Single,Bachelor's,105972.08,8831.01,Employed,0.22,646,8500.7,Home,11.75,36,281.33,D4,4,62952.44,45537.45,1,0,1,1
+23,Female,Single,High School,15154.65,1262.89,Employed,0.564,713,26282.16,Debt consolidation,12.3,36,876.71,C3,3,25329.39,4584.61,0,0,0,1
+59,Female,Single,Bachelor's,18877.33,1573.11,Retired,0.372,575,16256.55,Medical,15.12,60,387.77,F2,7,19656.97,6218.72,2,0,2,0
+26,Female,Single,High School,17072.99,1422.75,Employed,0.309,838,21977.7,Car,10.12,36,710.4,A5,4,28641.2,23123.4,2,0,3,1
+28,Male,Married,PhD,47486.48,3957.21,Employed,0.305,556,21582.12,Other,13.17,60,492.94,F5,5,29959.58,17470.35,3,0,5,1
+47,Male,Married,High School,46375.74,3864.64,Self-employed,0.234,720,17677.53,Debt consolidation,15.14,36,614.01,C3,10,36576.27,16231.87,0,0,1,1
+29,Male,Married,Bachelor's,64338.94,5361.58,Self-employed,0.106,738,22797.96,Debt consolidation,13.38,36,772.33,C5,4,53724.07,22939.1,0,0,1,1
+57,Female,Single,Bachelor's,38083.08,3173.59,Self-employed,0.109,703,7039.66,Education,12.46,36,235.37,C3,1,35302.5,13902.26,1,0,1,1
+53,Female,Married,Master's,106994.72,8916.23,Employed,0.3,697,4183.43,Other,12.53,60,94.18,C1,2,79290.2,6564.58,2,0,2,1
+71,Other,Married,Bachelor's,50256.76,4188.06,Employed,0.055,614,19712.38,Medical,13.93,60,457.96,D1,6,57288.36,15677.37,1,0,1,1
+62,Male,Married,Bachelor's,77277.21,6439.77,Employed,0.153,552,19504.32,Education,17.22,36,697.52,F2,4,45265.75,31700.32,2,0,3,1
+64,Male,Married,Bachelor's,39854.95,3321.25,Employed,0.26,731,21135.25,Debt consolidation,15.14,36,734.11,C5,3,27686.6,21315.16,1,0,3,1
+44,Female,Single,Bachelor's,28811.88,2400.99,Employed,0.028,749,21523.89,Debt consolidation,12.86,36,723.77,B3,5,41353.53,17689.41,1,0,1,1
+35,Female,Single,High School,32660.17,2721.68,Employed,0.287,711,23465.6,Debt consolidation,12.7,60,530.32,C2,3,45994.26,34116.92,0,0,1,1
+74,Female,Divorced,Bachelor's,82729.14,6894.1,Employed,0.036,561,17704.32,Medical,14.12,36,606.12,F1,4,83023.04,78320.36,1,0,1,0
+52,Female,Married,Other,58492.86,4874.4,Unemployed,0.078,658,17937.89,Education,13.9,36,612.2,D4,2,40371.3,9723.97,1,0,1,0
+52,Male,Single,Bachelor's,56391.97,4699.33,Student,0.091,647,32582.34,Debt consolidation,8.79,36,1032.93,D5,4,34147.75,25088.72,1,0,1,1
+44,Female,Married,Bachelor's,65867.34,5488.94,Self-employed,0.181,498,18244.67,Education,12.79,36,612.89,F4,7,85360.5,59577.46,3,0,4,1
+61,Female,Single,High School,42552.24,3546.02,Employed,0.06,666,6806.85,Home,13.18,36,229.94,D4,8,47019.37,32412.4,2,0,2,1
+72,Female,Single,Master's,196687.87,16390.66,Retired,0.097,673,6127.73,Car,12.18,36,204.06,C3,4,274323.16,102915.16,0,0,2,1
+69,Male,Married,High School,31742.96,2645.25,Student,0.145,812,19649.34,Debt consolidation,9.35,36,628.05,A2,2,42712.56,8910.25,0,0,2,1
+69,Male,Single,High School,38768.91,3230.74,Employed,0.165,711,15870.48,Debt consolidation,12.91,36,534.05,C4,3,47735.59,43052.17,0,0,0,1
+72,Male,Divorced,Bachelor's,27744.82,2312.07,Employed,0.255,573,13683.35,Debt consolidation,12.75,36,459.4,F4,3,41583.38,13688.29,3,0,4,0
+32,Female,Married,Bachelor's,48986.65,4082.22,Employed,0.281,648,12684.09,Vacation,10.17,36,410.29,D5,1,59539.57,5543.63,3,0,3,1
+59,Male,Married,Other,12641.22,1053.44,Unemployed,0.11,707,13940.9,Debt consolidation,12.43,36,465.91,C2,9,23855.8,17956.48,3,0,3,0
+22,Male,Single,High School,6151.16,512.6,Employed,0.278,713,10442.12,Other,10.72,36,340.48,C3,7,11293.88,7678.26,1,0,1,1
+23,Male,Single,Bachelor's,24636.36,2053.03,Employed,0.507,797,6555.36,Debt consolidation,10.64,36,213.5,B1,2,33017.49,17070.68,3,0,3,1
+69,Female,Single,High School,51547.03,4295.59,Employed,0.051,618,12229.77,Debt consolidation,13,36,412.07,D2,8,38293.13,32486.74,1,0,1,1
+57,Male,Married,Master's,67235.19,5602.93,Employed,0.11,766,4578.67,Home,8.5,36,144.54,B2,4,55827.31,30019.52,0,0,0,1
+69,Female,Single,Bachelor's,17047.96,1420.66,Employed,0.172,640,7693.41,Debt consolidation,12.29,36,256.6,D5,5,23756.26,7432.49,2,0,2,1
+37,Male,Married,Bachelor's,13364.55,1113.71,Employed,0.047,571,13752.36,Other,13.42,60,315.87,F3,5,15537.62,10849.37,3,0,5,1
+69,Male,Single,Bachelor's,23540.54,1961.71,Unemployed,0.442,609,13537.06,Vacation,15.54,36,472.85,E4,3,19496.53,2327.53,4,0,5,0
+22,Female,Divorced,Bachelor's,23293.52,1941.13,Self-employed,0.264,687,16759.63,Debt consolidation,12.08,60,373.49,C2,4,20545.52,9090.46,4,0,5,1
+22,Male,Divorced,Bachelor's,41374.61,3447.88,Self-employed,0.151,631,25592.4,Debt consolidation,14.68,60,604.55,D3,3,31244.01,2095.05,2,0,2,1
+48,Male,Married,Bachelor's,39150.53,3262.54,Employed,0.06,779,9672.09,Debt consolidation,12.18,60,216.03,B1,6,50971.37,3076.11,1,0,2,1
+74,Male,Married,Bachelor's,87564.16,7297.01,Employed,0.191,781,19154.82,Car,8.05,36,600.68,B2,9,80638.44,46280.27,2,0,2,1
+43,Female,Single,Bachelor's,28331,2360.92,Unemployed,0.113,748,31495.79,Debt consolidation,11.46,60,692.04,B2,7,23299.28,13622.96,2,0,2,1
+57,Female,Single,Master's,16352.55,1362.71,Self-employed,0.132,568,500,Debt consolidation,16.2,36,17.63,F5,8,23435.9,21374.75,2,0,3,0
+52,Male,Divorced,Bachelor's,43612.54,3634.38,Self-employed,0.218,690,12117.56,Car,11.6,36,400.17,C4,2,35591.51,30352.65,0,0,0,1
+53,Male,Married,PhD,20344.71,1695.39,Retired,0.092,662,21528.89,Debt consolidation,12.86,36,723.94,D5,6,33285,24093.63,4,0,4,1
+21,Female,Single,High School,20535.74,1711.31,Student,0.299,669,20889.6,Debt consolidation,9.93,36,673.36,D2,6,30968.49,23256.85,3,0,3,0
+39,Female,Married,High School,100610.24,8384.19,Student,0.09,679,3750.73,Debt consolidation,12.77,36,125.96,C3,4,136707.54,32282.64,3,0,4,1
+22,Male,Divorced,Bachelor's,63471.04,5289.25,Employed,0.443,695,16207.69,Debt consolidation,9.73,36,520.92,C3,4,74627.7,66410.26,1,0,1,1
+73,Female,Single,High School,28116.4,2343.03,Unemployed,0.093,756,30033.22,Medical,10.11,60,639.74,B3,4,25924.39,8118.7,3,0,4,1
+64,Female,Single,Bachelor's,108368.29,9030.69,Retired,0.261,723,22274.57,Debt consolidation,11.09,36,730.19,C3,2,59266.13,6673.68,2,0,3,1
+46,Female,Divorced,High School,59750.65,4979.22,Self-employed,0.42,697,18788.72,Other,13.7,36,639.42,C1,6,60191.72,50429.94,4,0,5,1
+52,Male,Married,Master's,45842.04,3820.17,Self-employed,0.038,678,22200.66,Car,12.55,36,743.23,C1,4,49401.74,22171.46,2,0,2,1
+26,Male,Single,Bachelor's,24179.03,2014.92,Unemployed,0.195,519,14947.7,Other,17.13,60,372.53,F5,9,23099.23,11465.59,5,0,5,0
+52,Male,Single,Bachelor's,10560.81,880.07,Employed,0.078,731,21651.67,Other,12.81,36,727.55,C4,6,18831.59,9168.93,1,0,1,1
+75,Female,Married,Master's,21740.04,1811.67,Employed,0.323,652,4855.04,Car,11.91,36,161.05,D4,5,35413.94,7168.42,3,0,4,1
+24,Female,Married,High School,27043.95,2253.66,Employed,0.077,606,18889.71,Vacation,16.72,36,670.84,E3,3,36820.75,11700.93,0,0,0,1
+75,Male,Single,Master's,17710.85,1475.9,Retired,0.077,767,20818.55,Vacation,9.7,36,668.83,B4,7,24499.77,14981.66,3,0,3,1
+31,Female,Single,Bachelor's,39114.83,3259.57,Employed,0.206,660,13948.61,Other,11.93,36,462.83,D4,1,41788.34,20146.66,3,0,4,1
+37,Female,Single,High School,10689.43,890.79,Employed,0.242,759,9112.46,Debt consolidation,9.65,60,192.05,B3,5,19317.49,10428.74,3,0,3,1
+58,Other,Single,Master's,80681.2,6723.43,Self-employed,0.124,723,14614.48,Education,7.13,36,452.12,C3,5,125656.64,69520.49,2,0,2,1
+44,Female,Single,Bachelor's,27600.85,2300.07,Self-employed,0.072,580,15137.82,Business,16.09,36,532.87,E3,3,39419.68,22551.98,2,0,3,1
+25,Other,Single,Bachelor's,56587.53,4715.63,Unemployed,0.147,647,16547.13,Car,11.46,60,363.58,D2,5,70185.31,42405.95,2,0,2,0
+72,Male,Single,PhD,56185.88,4682.16,Employed,0.181,571,12921.54,Debt consolidation,12.16,60,288.48,F2,3,60002.23,52358.72,1,0,1,1
+54,Female,Divorced,PhD,17316.67,1443.06,Employed,0.135,632,30927.56,Debt consolidation,10.04,60,657.73,D2,4,27304.01,14480.25,4,0,4,1
+26,Female,Single,PhD,12778.37,1064.86,Unemployed,0.362,842,4909.91,Car,6.68,36,150.89,A4,5,21399.6,18439.84,3,0,3,0
+42,Male,Single,Bachelor's,24734.8,2061.23,Unemployed,0.187,693,12355.91,Education,13.33,36,418.29,C2,6,28662.71,23378.55,2,0,2,0
+31,Male,Single,Master's,45491.97,3791,Employed,0.268,585,21421.9,Car,12.78,36,719.52,E4,9,65313.14,25241.66,3,1,4,1
+68,Female,Married,High School,39418.79,3284.9,Employed,0.368,668,7116.86,Car,14.05,60,165.78,D3,3,48241.03,43488.33,1,0,2,1
+36,Male,Single,Master's,73087.77,6090.65,Employed,0.246,684,13798.83,Debt consolidation,11.82,36,457.13,C4,5,42513.06,26006.45,1,0,1,1
+53,Female,Married,Bachelor's,45954.37,3829.53,Employed,0.069,555,13273.22,Home,16.67,36,471.05,F5,7,30887.03,9367.33,3,0,3,1
+29,Male,Married,Bachelor's,48023.97,4002,Unemployed,0.161,665,25786.7,Education,14.33,36,885.47,D1,5,67980.38,34290.26,2,0,2,0
+26,Male,Divorced,PhD,22356.85,1863.07,Employed,0.125,634,23569.49,Business,12.32,36,786.45,D4,9,25021.03,6207.6,4,0,5,0
+36,Male,Married,Master's,31165.22,2597.1,Employed,0.314,648,14619.8,Debt consolidation,14.74,60,345.81,D5,3,27226.82,24446.35,2,0,2,1
+49,Male,Single,Other,31669.2,2639.1,Employed,0.034,711,9598.8,Business,11.31,36,315.66,C1,7,28005.7,5768.74,1,0,2,1
+23,Female,Single,Bachelor's,52614.37,4384.53,Employed,0.111,653,12194.59,Business,9.85,60,258.2,D2,2,28784.93,19013.66,0,0,0,1
+40,Female,Married,High School,57057.91,4754.83,Retired,0.145,730,21032.79,Debt consolidation,12.08,36,699.39,C3,5,54810.07,31958.71,2,0,2,1
+56,Male,Single,PhD,31588.21,2632.35,Self-employed,0.107,688,5479.33,Education,10.52,60,117.83,C3,1,45095.03,37317.46,3,0,3,1
+39,Male,Single,Bachelor's,32215.86,2684.66,Employed,0.221,826,20649.26,Home,5.65,60,395.86,A5,5,37451.72,10999.42,4,0,6,1
+46,Male,Widowed,PhD,44839.93,3736.66,Employed,0.328,674,10877.88,Medical,14.26,36,373.16,C2,6,40064.41,33211.12,3,0,4,1
+23,Male,Married,Master's,115805.52,9650.46,Employed,0.084,709,16004.14,Debt consolidation,11.09,36,524.64,C1,2,97342.31,69664.66,3,0,4,1
+39,Female,Married,Master's,12790.75,1065.9,Employed,0.15,629,17688.07,Debt consolidation,11.59,36,584.04,D4,1,15368.36,2362.78,2,0,4,0
+40,Male,Married,Bachelor's,20861.75,1738.48,Employed,0.218,606,22680.34,Home,11.31,36,745.86,E4,3,20155.77,18636.77,5,1,5,0
+52,Male,Married,Master's,21377.69,1781.47,Employed,0.393,731,38690.96,Other,11.36,60,848.2,C1,4,31732.4,10573.09,1,0,1,1
+27,Female,Married,High School,16488.21,1374.02,Employed,0.162,749,25984.33,Education,12.6,36,870.52,B3,3,11430.91,2364.95,3,0,3,1
+72,Male,Single,Other,22531.91,1877.66,Unemployed,0.212,759,6196.65,Debt consolidation,10.94,60,134.54,B2,8,20039.45,14648.17,1,0,2,0
+61,Male,Widowed,High School,45531.04,3794.25,Retired,0.155,706,27849.99,Home,13.26,60,637.39,C3,8,70681.71,64765.41,1,0,1,1
+53,Male,Single,High School,64054.09,5337.84,Employed,0.026,664,14496.15,Medical,9.8,36,466.39,D5,4,40132.79,23129.4,2,0,2,1
+60,Female,Married,Bachelor's,41694.21,3474.52,Self-employed,0.022,687,500,Medical,11.35,60,10.96,C1,5,33200.52,26821.25,2,0,2,1
+59,Female,Single,Master's,41193.52,3432.79,Student,0.203,688,25554.32,Car,10.4,36,829.37,C4,4,57105.08,10100.49,1,0,3,0
+38,Female,Single,Master's,20925.12,1743.76,Employed,0.314,579,531.04,Other,11.45,36,17.5,F4,8,23877.12,2323.07,2,0,3,1
+60,Male,Married,Bachelor's,7347.5,612.29,Retired,0.09,742,13897.7,Medical,9.31,60,290.59,B2,7,15265.54,13351.64,2,0,4,1
+21,Male,Single,Master's,45473.68,3789.47,Employed,0.221,603,11565.48,Other,13.85,60,268.21,E4,2,60977.61,21163.75,5,0,5,1
+31,Female,Married,Master's,80843.44,6736.95,Employed,0.167,725,36185.1,Home,9.93,36,1166.4,C3,2,88098.83,40955.49,5,0,6,1
+48,Female,Married,Bachelor's,64542.14,5378.51,Employed,0.046,535,21649.71,Car,13.59,36,735.63,F4,5,89086.36,46265.43,1,0,1,1
+45,Other,Married,Bachelor's,34316.57,2859.71,Self-employed,0.033,760,12306.29,Car,11.48,36,405.7,B1,4,38441.62,1941.06,0,0,0,1
+70,Male,Single,Bachelor's,38041.56,3170.13,Retired,0.31,628,8651.47,Business,17.27,36,309.61,D5,5,48869.72,9538.52,2,0,2,1
+43,Male,Single,Master's,84317.23,7026.44,Employed,0.17,676,14838.74,Car,10.56,36,482.72,C2,6,48677.65,43989.97,3,0,5,1
+51,Female,Married,PhD,23917.34,1993.11,Employed,0.337,632,2084.59,Debt consolidation,14.52,60,49.07,D2,7,20904.45,8500.86,3,0,4,1
+50,Female,Single,High School,27673.99,2306.17,Employed,0.274,765,13090.43,Education,9.35,36,418.41,B1,5,39968.61,13729.47,0,0,0,1
+62,Female,Single,High School,12330.78,1027.56,Employed,0.173,649,1347.53,Debt consolidation,17.66,36,48.49,D4,5,12129.17,8231.32,0,0,0,0
+55,Female,Married,High School,48007.33,4000.61,Employed,0.124,660,17169.77,Other,13.8,36,585.16,D2,4,39010.4,16309.34,2,0,2,1
+27,Female,Married,Bachelor's,26905.76,2242.15,Unemployed,0.11,726,18848.04,Education,9.06,36,599.89,C1,6,29480.28,5594.41,4,0,4,1
+36,Female,Married,Bachelor's,30352.18,2529.35,Employed,0.173,599,21971.19,Car,16.74,36,780.49,E2,5,20552.86,14096.94,3,0,3,1
+46,Female,Single,Bachelor's,54678.45,4556.54,Employed,0.102,651,17705.67,Other,14.97,36,613.51,D3,7,81694.57,25489.18,2,0,2,1
+68,Female,Married,Bachelor's,23131.44,1927.62,Employed,0.141,762,13597.79,Other,11.93,36,451.19,B5,5,30034.07,18085.74,2,0,2,1
+72,Female,Married,Bachelor's,48954.47,4079.54,Employed,0.249,772,4906.79,Debt consolidation,11.2,36,161.11,B2,4,56423.17,15120.05,2,0,4,1
+69,Male,Married,High School,50499.72,4208.31,Employed,0.164,707,16190.06,Medical,13.46,60,372.2,C3,2,63284.85,6388.66,0,0,0,1
+22,Male,Married,Bachelor's,29247.04,2437.25,Employed,0.171,670,18700.69,Debt consolidation,11.18,36,613.83,C3,2,36785.23,33491.19,0,0,0,1
+21,Female,Married,High School,60087.89,5007.32,Employed,0.158,718,15705.54,Car,10.36,60,336.49,C4,7,85633.41,38739.43,1,0,1,1
+68,Male,Married,Master's,34138.05,2844.84,Employed,0.092,707,7575.7,Debt consolidation,10.37,60,162.34,C2,2,46974.96,21074.51,2,0,4,1
+32,Female,Married,Bachelor's,55784.23,4648.69,Employed,0.106,641,18282.12,Debt consolidation,14.68,36,630.89,D3,6,67621.64,44962.35,1,0,1,1
+25,Male,Married,Bachelor's,25090.64,2090.89,Employed,0.152,663,28129.76,Debt consolidation,12.04,36,934.85,D4,2,32727.19,5748.91,2,0,3,1
+57,Male,Married,Bachelor's,51589.41,4299.12,Student,0.063,584,1533.22,Medical,11.55,36,50.6,E4,4,71109.04,4220.02,5,0,5,0
+52,Female,Married,Bachelor's,29350.66,2445.89,Retired,0.23,735,18609.75,Debt consolidation,12.86,36,625.78,C1,3,18227.58,10822.24,1,0,1,1
+75,Male,Married,Bachelor's,44407.86,3700.66,Employed,0.03,768,10559.73,Debt consolidation,11.21,60,230.7,B5,9,64623.98,43049.31,2,0,2,1
+29,Male,Single,High School,44890.84,3740.9,Employed,0.255,670,9377.75,Debt consolidation,11.51,36,309.29,C5,5,38933.7,15684.86,5,0,5,1
+61,Male,Single,Bachelor's,28589.73,2382.48,Employed,0.018,708,36881.15,Debt consolidation,12.43,60,828.44,C5,3,42437.12,24173.61,1,0,1,1
+55,Female,Married,High School,28090.82,2340.9,Employed,0.122,794,14742.15,Business,13.73,36,501.92,B1,4,20200.87,4454.71,5,0,5,1
+39,Male,Married,Bachelor's,31974.03,2664.5,Employed,0.126,657,23928.15,Education,14.8,36,827.14,D5,3,20354.93,11044.13,0,0,2,1
+68,Female,Single,Master's,37912.49,3159.37,Self-employed,0.171,731,23154.65,Business,10.54,60,498.14,C4,7,43005.85,27386.74,0,0,0,1
+36,Male,Married,Bachelor's,51241.51,4270.13,Employed,0.215,706,5444.01,Vacation,8.17,36,171.02,C4,4,56462.12,18757.28,1,0,2,1
+23,Female,Single,Master's,41873.51,3489.46,Retired,0.171,588,13337.44,Debt consolidation,14.19,36,457.07,E4,5,66117.5,6792.98,1,0,2,1
+40,Male,Married,High School,6008.56,500.71,Employed,0.43,787,500,Debt consolidation,10.48,36,16.25,B1,7,10763.05,8688.64,3,0,4,0
+44,Male,Married,High School,60674.7,5056.22,Employed,0.062,658,15990.06,Debt consolidation,9.29,36,510.64,D1,4,64754.23,24394.89,2,0,3,1
+74,Male,Married,High School,46254.12,3854.51,Employed,0.106,573,6970.75,Debt consolidation,12.64,36,233.67,F5,4,54424.72,31730.34,4,0,5,1
+53,Male,Single,High School,73622.69,6135.22,Student,0.04,705,19222.53,Car,9.94,60,407.85,C3,4,89552.99,45397.07,1,0,2,1
+44,Female,Widowed,Bachelor's,60426.55,5035.55,Unemployed,0.067,483,26995.15,Debt consolidation,14.73,60,638.39,F2,9,58305.29,53887.37,1,1,1,0
+72,Male,Married,Bachelor's,28177.99,2348.17,Employed,0.11,537,6351.59,Debt consolidation,17.97,36,229.53,F5,6,28890.02,5515.81,1,0,3,0
+31,Male,Married,Master's,18031.96,1502.66,Employed,0.189,684,8452.24,Debt consolidation,7.89,36,264.43,C5,7,19190.85,9117.97,1,1,1,1
+69,Female,Married,Master's,107375.08,8947.92,Employed,0.336,712,4807.33,Business,12.93,36,161.82,C3,4,61759.55,36471.58,2,0,3,1
+28,Male,Widowed,Bachelor's,78431.61,6535.97,Self-employed,0.31,679,21234.56,Business,13.31,60,486.53,C4,6,52523.35,24776.17,0,0,0,1
+56,Male,Married,Bachelor's,56829.36,4735.78,Employed,0.044,645,24469.39,Debt consolidation,16.61,36,867.66,D3,6,83375.61,26040.33,1,0,2,1
+58,Female,Married,High School,22523.67,1876.97,Employed,0.044,715,3751.07,Education,15.98,36,131.84,C3,3,24881.38,15141.44,2,0,2,1
+60,Female,Single,Bachelor's,16624.56,1385.38,Employed,0.466,749,500,Debt consolidation,10.16,36,16.17,B2,4,27027.79,10696.01,1,2,2,1
+40,Male,Married,High School,27980.83,2331.74,Employed,0.124,685,7537.81,Debt consolidation,12.19,36,251.05,C1,4,31731.93,3659.94,1,0,1,1
+55,Male,Married,Bachelor's,60833.93,5069.49,Employed,0.109,699,2293.49,Business,13.87,36,78.24,C1,5,44166.26,17933.12,1,0,1,1
+68,Female,Married,Master's,8569.46,714.12,Employed,0.196,589,2999.99,Vacation,14.06,36,102.62,E4,6,17155.3,14869.93,3,0,3,0
+45,Male,Single,Bachelor's,23484.91,1957.08,Employed,0.078,589,27446.56,Education,12.28,36,915.29,E4,10,38866.17,5824.06,4,0,4,0
+55,Female,Single,High School,181082.71,15090.23,Unemployed,0.245,750,20116.78,Home,15.14,60,480.06,B5,7,158475.15,139059.92,2,0,2,0
+45,Male,Married,Other,29326.6,2443.88,Self-employed,0.039,721,3391.3,Debt consolidation,10.39,36,110.05,C3,9,39971.03,26935.24,0,0,0,1
+49,Female,Married,High School,37141.11,3095.09,Employed,0.087,747,25168.4,Education,10.74,36,820.89,B4,1,32456.34,2691.41,1,0,3,1
+38,Male,Married,PhD,35756.44,2979.7,Employed,0.028,641,17310.63,Medical,16.21,36,610.39,D1,4,34949.28,5261.86,1,0,1,1
+66,Female,Single,Master's,102195.42,8516.28,Self-employed,0.237,666,18136.73,Education,11.1,60,395.24,D1,4,143309.24,17549.89,3,0,4,1
+38,Male,Single,Bachelor's,29919.38,2493.28,Unemployed,0.239,799,4329.68,Other,10.3,36,140.32,B5,5,49656.85,36665.37,3,0,3,0
+22,Female,Single,High School,12358.49,1029.87,Employed,0.099,692,9783.86,Car,13.05,36,329.89,C5,6,22348.64,5530.02,3,0,3,1
+74,Male,Single,Other,67395.35,5616.28,Employed,0.218,742,16248.95,Car,13.35,60,372.63,B1,7,64751.61,30558.9,2,0,2,1
+55,Male,Single,Bachelor's,19120.82,1593.4,Self-employed,0.397,673,500,Education,13.16,36,16.89,C5,8,33307.01,8381.89,1,0,1,1
+36,Female,Married,High School,14832.17,1236.01,Employed,0.05,772,15525.8,Debt consolidation,7.44,36,482.52,B4,2,20783.33,17266.52,2,0,2,1
+61,Female,Divorced,Bachelor's,90731.96,7561,Self-employed,0.28,791,4953.73,Home,10.85,36,161.83,B2,7,114884.16,19903.46,2,0,4,1
+56,Female,Single,Bachelor's,56725.78,4727.15,Employed,0.063,811,17171.64,Home,7.34,60,342.78,A5,3,35656.3,24134.74,0,0,1,1
+53,Male,Married,High School,29168.78,2430.73,Employed,0.142,757,17033.51,Debt consolidation,10.71,60,367.89,B1,4,28644.43,17837.88,2,0,2,1
+24,Female,Married,High School,72609.52,6050.79,Employed,0.13,591,25070.74,Debt consolidation,12.66,36,840.63,E1,6,64049.94,3713.93,3,0,3,1
+53,Male,Divorced,High School,65195.65,5432.97,Employed,0.294,615,28347.67,Car,12.91,36,953.92,D3,5,48651.66,38974.13,3,0,5,1
+34,Female,Divorced,High School,24113.12,2009.43,Retired,0.09,736,24532.74,Car,13.21,36,829.09,C2,11,32619.78,15128.34,2,0,3,1
+41,Female,Single,High School,40714.47,3392.87,Employed,0.037,494,500,Home,13.78,60,11.58,F4,5,65391.9,32338.04,3,0,3,1
+68,Male,Single,High School,34060.02,2838.33,Employed,0.294,680,500,Education,16.1,36,17.6,C2,8,50552,44488.85,6,0,6,0
+40,Female,Single,High School,24367.45,2030.62,Employed,0.371,650,880.89,Debt consolidation,14.18,36,30.18,D3,4,21723.98,3519.43,2,0,3,0
+28,Female,Married,High School,37289.01,3107.42,Employed,0.322,719,8363.75,Education,13.19,36,282.57,C5,5,48983.42,26813.65,2,0,2,1
+27,Male,Married,Other,57579.19,4798.27,Employed,0.208,631,11641.23,Debt consolidation,11.14,36,381.89,D1,5,55353.89,21616.37,1,0,1,1
+23,Female,Single,Bachelor's,20729.23,1727.44,Employed,0.282,758,10051.54,Car,8.75,36,318.47,B1,5,21873.99,10554.81,0,0,0,0
+37,Male,Married,Bachelor's,59501.98,4958.5,Unemployed,0.197,779,22098.51,Vacation,9.94,36,712.43,B5,5,40370.39,3881.54,1,0,2,0
+53,Female,Married,Bachelor's,11915.03,992.92,Employed,0.256,582,12248.01,Business,15.5,36,427.59,E2,6,21545.44,17391.15,0,0,0,1
+68,Male,Widowed,High School,41432.96,3452.75,Employed,0.262,563,27760.81,Debt consolidation,11.95,36,921.39,F4,3,39621.65,27381.56,5,0,6,1
+32,Male,Single,PhD,23344.96,1945.41,Employed,0.054,593,13492.06,Education,12.06,36,448.52,E1,2,17536.93,13722.64,3,0,3,1
+71,Male,Single,Bachelor's,93586.4,7798.87,Employed,0.207,607,1717.44,Home,16.08,60,41.84,E2,2,108872.18,90111.97,2,0,3,1
+42,Female,Single,Bachelor's,13807.09,1150.59,Employed,0.166,520,6960.98,Debt consolidation,18.04,36,251.8,F5,4,15052.19,12868.12,3,0,3,1
+75,Female,Single,Other,31455.63,2621.3,Self-employed,0.258,757,32991.45,Car,10,36,1064.54,B4,3,25294.19,21545.45,1,0,2,1
+42,Female,Married,Master's,22038.6,1836.55,Employed,0.095,745,500,Debt consolidation,11.42,36,16.47,B2,6,26574.39,1793.96,4,0,6,1
+66,Male,Single,Bachelor's,25834.4,2152.87,Retired,0.374,651,6826.3,Business,9.65,36,219.15,D3,4,27222.1,16644.13,0,0,0,1
+50,Male,Married,Other,18347.89,1528.99,Employed,0.154,669,13087.49,Car,11.69,36,432.76,D2,5,18231.57,16445.25,2,0,2,1
+58,Female,Single,Master's,40274.09,3356.17,Employed,0.387,587,19826.04,Business,10.74,36,646.64,E3,6,53653.09,18034.99,5,0,5,1
+58,Female,Single,Other,41619.38,3468.28,Self-employed,0.402,665,12461.38,Business,11.97,36,413.72,D1,8,66212.91,6559.32,1,0,1,1
+65,Male,Married,High School,12870.03,1072.5,Self-employed,0.305,546,14422.58,Business,17.34,36,516.65,F5,7,21973.81,4563.18,2,0,3,1
+71,Male,Divorced,Other,52785.88,4398.82,Student,0.104,605,13211.25,Debt consolidation,15.79,36,463.1,E2,0,39145.47,35643.15,1,0,2,0
+74,Female,Single,Bachelor's,14022.78,1168.56,Employed,0.329,674,11266.34,Other,10.93,36,368.47,C3,9,16909.39,6695.84,6,0,6,1
+28,Male,Divorced,Bachelor's,36958.7,3079.89,Employed,0.068,683,17612.02,Car,11.17,36,578.01,C1,3,28505.13,2972.62,2,0,3,1
+47,Female,Married,High School,104531.51,8710.96,Employed,0.222,652,22330.09,Debt consolidation,15.05,36,774.63,D3,8,81149.6,50692.28,2,0,3,1
+47,Female,Single,High School,21676.45,1806.37,Employed,0.289,745,6582.93,Debt consolidation,9.08,36,209.58,B3,4,21892.3,4076.38,3,0,3,1
+54,Female,Married,High School,30351.94,2529.33,Employed,0.082,762,25186.43,Car,7.96,36,788.79,B3,10,51996.31,9830.5,0,0,1,1
+41,Female,Single,Bachelor's,22623.09,1885.26,Employed,0.09,723,4176.35,Debt consolidation,9.43,60,87.57,C4,4,21397.36,16996.56,3,0,3,1
+50,Male,Single,High School,24281.45,2023.45,Employed,0.211,661,28230.24,Home,15.42,60,677.84,D4,4,17171.98,3172.78,0,0,0,1
+53,Female,Married,High School,43749.32,3645.78,Unemployed,0.309,696,21293.03,Debt consolidation,10.72,36,694.29,C4,7,57063.92,22805.31,7,0,9,0
+48,Female,Single,Other,95603.17,7966.93,Employed,0.05,690,2344.27,Debt consolidation,12.97,36,78.95,C3,13,73366.4,54742.27,1,0,1,1
+67,Male,Single,Master's,35558.95,2963.25,Employed,0.338,478,10505.82,Education,16.73,36,373.15,F1,5,34327.58,26481.45,4,0,4,0
+53,Female,Single,Bachelor's,74283.26,6190.27,Employed,0.49,633,28026.87,Vacation,17.19,60,699.41,D3,3,102961.06,68621.51,5,0,5,0
+25,Male,Married,Master's,23498.12,1958.18,Employed,0.239,654,17873.16,Debt consolidation,13.62,60,412.36,D4,4,20955.75,9057.18,0,0,2,1
+68,Female,Married,Bachelor's,70619.72,5884.98,Unemployed,0.352,651,500,Education,14.19,36,17.13,D1,10,114431.78,88761.67,5,0,6,0
+39,Male,Single,High School,98484.73,8207.06,Employed,0.102,750,18277.56,Car,10.77,60,395.31,B2,7,93161.68,41139.35,2,0,4,1
+24,Female,Married,Bachelor's,75438.35,6286.53,Unemployed,0.268,757,5318.71,Other,8.23,36,167.23,B1,3,47500.66,17881.37,0,0,1,0
+55,Male,Single,Bachelor's,56262.44,4688.54,Employed,0.204,605,23067.64,Education,12.78,36,774.8,E4,4,85539.13,41236.22,3,0,5,1
+69,Male,Married,High School,53051.45,4420.95,Employed,0.19,683,21543.17,Other,9.74,36,692.51,C3,8,78713.05,21659.38,3,0,4,1
+37,Other,Divorced,Bachelor's,23036.11,1919.68,Student,0.274,604,18817.58,Debt consolidation,15.92,36,660.83,E5,6,32124.27,29789.56,3,0,3,0
+64,Female,Married,Bachelor's,14986.87,1248.91,Employed,0.144,679,16727.54,Debt consolidation,12.41,60,375.57,C3,6,16546.12,14680.63,4,0,5,1
+48,Male,Married,Bachelor's,54119.15,4509.93,Employed,0.196,759,5054.99,Business,8.46,36,159.48,B4,2,65337.03,16996.28,3,0,3,1
+50,Male,Married,High School,22664.84,1888.74,Employed,0.133,669,16604.07,Business,10.17,60,354.18,D4,7,37606.21,9688.24,1,0,1,1
+49,Male,Single,Master's,23762.37,1980.2,Employed,0.214,716,19249.03,Business,13.96,60,447.49,C2,6,30121.16,22376.06,1,0,2,1
+66,Female,Married,Bachelor's,14878.9,1239.91,Employed,0.109,713,21292.98,Home,13.39,36,721.45,C4,7,22534.05,9957.9,2,0,4,1
+73,Female,Single,Bachelor's,25729.3,2144.11,Self-employed,0.26,747,24460.59,Debt consolidation,12.2,36,814.78,B5,7,29014.7,13799.1,1,0,1,1
+26,Female,Single,Other,69693.76,5807.81,Self-employed,0.302,693,11305.4,Debt consolidation,9.23,60,235.95,C4,2,81718.44,56653.06,2,0,2,1
+55,Female,Single,Master's,64457.16,5371.43,Unemployed,0.103,646,13436.67,Other,10.93,36,439.45,D4,7,81582.1,76077.02,3,0,3,0
+61,Female,Single,Master's,16460.4,1371.7,Employed,0.119,724,8241.03,Other,12.41,60,185.03,C1,3,15985.19,3325.42,2,0,2,1
+57,Male,Married,High School,20333.07,1694.42,Retired,0.055,667,8465.63,Car,13.09,36,285.61,D2,5,24874.05,15233.63,0,0,1,1
+44,Male,Married,Master's,12330.53,1027.54,Employed,0.172,723,14832.83,Debt consolidation,13.7,36,504.79,C4,3,15112.02,13079.34,1,0,2,1
+49,Female,Single,Bachelor's,45212.52,3767.71,Employed,0.077,662,31764.44,Other,9.88,36,1023.16,D5,9,74020.7,67593.34,5,0,5,1
+69,Female,Single,Master's,40634.29,3386.19,Employed,0.229,684,15053.95,Other,10.01,60,319.93,C5,5,37666.46,34259.04,4,0,4,1
+66,Female,Married,Master's,42771.57,3564.3,Employed,0.29,723,32410.25,Debt consolidation,8.76,36,1027.02,C3,2,58562.44,12431.67,2,0,2,1
+73,Female,Married,Bachelor's,27833.23,2319.44,Employed,0.398,544,12934.03,Debt consolidation,13.8,36,440.8,F3,2,35456.56,11321.4,5,0,5,0
+51,Female,Single,Bachelor's,53870.03,4489.17,Employed,0.227,573,1472.11,Medical,17.63,60,37.09,F1,8,86490.3,68010.11,1,0,2,1
+55,Female,Single,High School,30504.96,2542.08,Employed,0.163,620,5735.79,Business,14.41,36,197.18,D1,5,40071.26,8908.43,0,0,0,0
+53,Male,Married,Bachelor's,64502.29,5375.19,Employed,0.071,630,500,Other,10.53,60,10.75,D5,4,61305.34,16516.06,2,0,3,1
+72,Male,Married,Bachelor's,18822.48,1568.54,Employed,0.044,697,7731.99,Business,9.14,36,246.38,C3,7,18429.38,17432.03,2,0,3,1
+41,Female,Single,Bachelor's,61200.16,5100.01,Employed,0.153,603,17278.22,Vacation,12.77,36,580.26,E5,4,35519.94,8034.92,2,1,2,1
+52,Female,Single,Bachelor's,47086.66,3923.89,Employed,0.21,775,21378.31,Home,8.86,36,678.43,B3,7,44983.85,3199.1,0,0,0,1
+43,Male,Married,Master's,53959.49,4496.62,Employed,0.074,633,22879.63,Debt consolidation,15.24,36,795.82,D4,5,37309.65,27903.15,2,0,2,1
+53,Male,Single,Bachelor's,29884.88,2490.41,Employed,0.249,707,13991.87,Vacation,12.81,36,470.16,C1,4,24644.49,3223.28,3,0,3,1
+23,Male,Single,Other,104034.86,8669.57,Employed,0.116,624,29526.27,Car,14.01,36,1009.28,D1,8,136778.36,73238.23,3,0,4,1
+38,Male,Married,Master's,23649.27,1970.77,Employed,0.085,719,11090.71,Business,9.69,36,356.25,C3,3,29964.77,9585.73,2,1,2,1
+45,Female,Divorced,Other,142718.53,11893.21,Employed,0.314,521,14406.71,Vacation,15.91,60,349.65,F5,7,220372.69,185761,3,0,3,0
+62,Male,Single,Master's,47481.85,3956.82,Employed,0.121,718,16755.65,Debt consolidation,12.28,60,375.1,C5,3,63567.17,59544.11,1,0,2,1
+51,Female,Married,Bachelor's,72217.68,6018.14,Employed,0.144,655,3005.39,Debt consolidation,14.31,36,103.17,D3,4,89952.05,5062.42,2,0,2,1
+74,Male,Single,Bachelor's,86938.08,7244.84,Self-employed,0.106,735,17005.15,Debt consolidation,16.8,36,604.59,C1,6,112124.78,45371.39,1,2,2,1
+23,Female,Married,Master's,57960.95,4830.08,Employed,0.093,668,14523.97,Car,13.95,60,337.57,D2,6,85567.42,20771.98,2,2,2,1
+60,Male,Single,Bachelor's,111934.69,9327.89,Employed,0.26,732,16953.87,Debt consolidation,8.53,36,535.43,C5,6,69517.99,40061.74,3,2,4,0
+66,Female,Married,Bachelor's,64106.63,5342.22,Unemployed,0.442,602,14720.71,Education,15.8,60,356.42,E3,7,72222.44,19692.93,4,0,4,0
+44,Female,Married,Master's,56409.22,4700.77,Employed,0.299,578,26941.18,Home,14.01,36,920.92,F1,6,35048.88,2588.16,1,0,1,1
+70,Female,Widowed,Master's,48175.3,4014.61,Employed,0.057,671,2630.81,Debt consolidation,12.69,36,88.25,C2,4,57240.51,9790.68,3,0,3,1
+52,Male,Married,High School,45714.84,3809.57,Employed,0.112,771,20689.35,Debt consolidation,12.8,60,468.63,B2,5,71084.25,17606.67,1,0,3,1
+67,Male,Single,Bachelor's,71105.49,5925.46,Employed,0.12,637,12132.82,Home,16.17,36,427.57,D5,2,45932.19,13616.59,2,0,2,1
+42,Male,Single,Bachelor's,21983.84,1831.99,Employed,0.463,672,15255.31,Debt consolidation,14.48,60,358.77,C3,4,29020.67,3424.12,3,0,3,1
+43,Male,Single,High School,33166.29,2763.86,Retired,0.125,517,1443.13,Car,14.86,36,49.93,F4,8,57351.66,18491.48,2,0,2,1
+22,Female,Married,Other,49301.76,4108.48,Employed,0.16,728,15058.17,Debt consolidation,10.47,36,489.21,C3,0,52954.05,40673.11,4,0,4,1
+47,Female,Married,Master's,23501.9,1958.49,Employed,0.22,706,14338.73,Debt consolidation,14.99,36,496.99,C3,2,25548.73,20052.05,2,0,3,1
+62,Female,Married,Bachelor's,64819.75,5401.65,Self-employed,0.048,806,500,Debt consolidation,4.97,60,9.43,A5,9,98767.49,41146.5,1,0,2,1
+22,Female,Single,Bachelor's,31998.19,2666.52,Employed,0.098,618,15891.9,Debt consolidation,13.97,36,542.92,D4,4,29813.76,12203.29,3,0,3,1
+46,Male,Married,Master's,16874.16,1406.18,Self-employed,0.273,630,17233.15,Debt consolidation,9.84,36,554.77,D2,4,20961.17,2807.04,2,0,4,1
+37,Male,Divorced,High School,25262.28,2105.19,Employed,0.261,766,500,Home,12.09,36,16.63,B4,4,20604.86,13429.76,3,0,3,1
+60,Male,Divorced,Bachelor's,64653.24,5387.77,Employed,0.061,677,22844.63,Business,14.06,36,781.44,C3,9,85023.31,58064.99,0,0,1,1
+53,Female,Married,Bachelor's,19430.56,1619.21,Employed,0.101,737,12322.28,Education,14.89,36,426.49,C1,6,35017.37,2439.99,2,0,2,1
+29,Female,Married,Master's,20397.48,1699.79,Employed,0.215,591,21562.24,Debt consolidation,14.96,36,747.04,E4,3,16737.7,9427.56,2,0,2,0
+63,Male,Married,Master's,49585.6,4132.13,Employed,0.15,551,15667.66,Education,13.79,36,533.89,F2,5,50012.25,20291.73,2,0,2,0
+74,Male,Single,Bachelor's,16479.36,1373.28,Employed,0.26,558,33785.95,Debt consolidation,17.58,36,1214.34,F3,4,22927.69,17806.45,0,0,2,1
+68,Female,Single,Master's,51024.4,4252.03,Employed,0.28,634,14693.15,Business,11.91,36,487.39,D3,4,65325.13,43906.21,2,0,2,1
+59,Female,Married,PhD,10554.32,879.53,Employed,0.14,722,20408.79,Car,12.19,60,455.94,C3,6,14557.28,10236.03,0,2,0,0
+49,Female,Single,Bachelor's,48292.29,4024.36,Employed,0.107,694,20793.65,Debt consolidation,18.29,36,754.77,C4,4,60268.62,47526.47,1,0,2,1
+62,Male,Married,High School,34339.45,2861.62,Employed,0.089,849,739.4,Business,7.82,60,14.93,A5,7,40052.25,6897.28,2,1,3,1
+75,Male,Married,Master's,96812.41,8067.7,Self-employed,0.25,632,11814.01,Education,15.22,36,410.81,D1,4,70647.63,26019.52,7,0,7,1
+46,Female,Married,Bachelor's,11273.51,939.46,Employed,0.189,766,1738.28,Education,9.26,60,36.3,B2,4,15011.11,10157.48,1,0,1,1
+55,Female,Single,Bachelor's,24644.32,2053.69,Employed,0.539,678,6799.86,Vacation,10.11,36,219.76,C5,3,20257.4,9918.77,6,0,6,0
+70,Male,Single,High School,49548.22,4129.02,Employed,0.047,673,20713.77,Debt consolidation,13.1,36,698.93,C2,7,54217.76,21978.68,1,1,1,1
+45,Female,Single,Bachelor's,35281.31,2940.11,Employed,0.095,569,29928.43,Debt consolidation,14.19,36,1025.65,F3,3,46383.5,34066.91,0,0,0,1
+44,Female,Single,Bachelor's,26915.99,2243,Student,0.176,831,22723.58,Debt consolidation,7.69,36,708.83,A1,5,19981.26,7993.82,1,0,1,1
+33,Male,Widowed,Bachelor's,12568.1,1047.34,Employed,0.086,785,10089.95,Other,9.08,60,209.84,B5,9,18034.48,2069.85,0,0,0,1
+27,Male,Single,High School,46739.57,3894.96,Unemployed,0.237,765,12735.2,Debt consolidation,13.58,60,293.56,B1,3,51899.2,47283.34,3,0,4,0
+56,Male,Single,Bachelor's,141308.94,11775.74,Employed,0.101,721,14271.46,Debt consolidation,11.53,60,314.08,C2,4,196579.09,149278.15,0,0,0,1
+65,Male,Single,Master's,23332.83,1944.4,Unemployed,0.299,532,9297.56,Education,16.55,60,228.82,F4,8,26978.79,2825.78,8,0,10,0
+40,Female,Married,High School,38000.87,3166.74,Self-employed,0.12,737,26936.68,Other,12.6,36,902.42,C4,6,30371.33,27546.83,0,0,1,1
+21,Male,Married,Master's,44844.15,3737.01,Self-employed,0.291,678,2315.58,Vacation,15.28,36,80.59,C3,4,51871.08,47228.44,5,0,5,1
+28,Female,Single,High School,28571.79,2380.98,Self-employed,0.107,727,29696.41,Debt consolidation,10.37,60,636.38,C2,6,28759.33,24204.85,3,1,4,1
+66,Other,Divorced,Bachelor's,35394.51,2949.54,Employed,0.227,768,17969.7,Home,12.52,36,601.32,B1,3,43755.31,21423.56,4,0,5,1
+36,Male,Married,Bachelor's,19505.67,1625.47,Unemployed,0.17,752,13568.78,Debt consolidation,8.34,36,427.33,B5,7,27888.18,23544.18,1,0,1,0
+34,Male,Single,Bachelor's,15804.79,1317.07,Self-employed,0.181,717,17586.72,Vacation,12.65,36,589.61,C2,10,26347.91,3711.59,2,0,4,1
+32,Female,Married,Bachelor's,89500.04,7458.34,Retired,0.224,708,13969.23,Debt consolidation,12.44,36,466.92,C2,3,66224.72,10892.66,4,0,4,1
+71,Female,Married,High School,33735.32,2811.28,Employed,0.213,666,12472.6,Other,11.7,36,412.48,D1,5,54367.77,18580.36,2,0,4,1
+43,Female,Single,High School,50477.61,4206.47,Retired,0.156,617,19851.45,Home,12.55,36,664.58,D3,6,64233.39,32100.45,0,0,2,1
+35,Male,Married,Master's,47245.02,3937.08,Unemployed,0.28,671,9710.94,Business,15.2,36,337.58,C4,9,66299.58,23897.13,2,0,3,0
+48,Male,Single,Bachelor's,20486.63,1707.22,Employed,0.259,544,14942.88,Education,16.3,36,527.56,F5,2,29805.38,22559.78,4,0,4,0
+54,Female,Single,Other,16597.25,1383.1,Employed,0.241,600,8441.68,Debt consolidation,11.23,36,277.29,E1,3,14149.21,10338.6,1,0,1,1
+22,Female,Single,Master's,25081.16,2090.1,Employed,0.124,671,21237.75,Business,16.15,60,518.15,C4,2,18494.17,14375.18,2,0,3,1
+52,Male,Married,Master's,41497.15,3458.1,Self-employed,0.051,510,24402.55,Debt consolidation,17.61,36,877.44,F3,4,27581.45,23459.28,3,0,3,1
+43,Female,Married,Bachelor's,22106.25,1842.19,Self-employed,0.143,546,10354.41,Debt consolidation,17.95,36,374.08,F3,7,22197.33,9150.14,3,0,4,1
+42,Male,Single,High School,27428.92,2285.74,Unemployed,0.239,586,8623.65,Business,14.54,60,203.08,E1,5,35877.97,25507.88,3,0,3,0
+71,Other,Single,PhD,10876.03,906.34,Employed,0.094,665,16797.47,Other,16.17,36,591.96,D1,5,13747.89,8607.04,1,0,1,1
+45,Female,Married,High School,35475.94,2956.33,Employed,0.159,721,21002.43,Debt consolidation,14.97,36,727.75,C3,4,47752.37,38282.4,2,0,2,1
+42,Male,Single,Bachelor's,38000.7,3166.72,Unemployed,0.197,669,20829.18,Education,13.96,60,484.23,D1,5,60042.17,47236.07,3,0,3,0
+42,Female,Single,Master's,36230.69,3019.22,Employed,0.054,591,22268.31,Vacation,16.62,36,789.72,E3,2,44919.05,25163.79,2,0,2,1
+69,Male,Single,Bachelor's,19830.76,1652.56,Employed,0.068,722,24850.61,Debt consolidation,13.32,36,841.15,C1,9,27851.39,25256.76,1,0,1,1
+72,Male,Single,High School,20095.6,1674.63,Employed,0.21,825,15270.95,Car,9.33,36,487.96,A5,6,31736.5,8701.58,0,0,0,1
+62,Male,Single,Bachelor's,18863.78,1571.98,Unemployed,0.168,586,7839.46,Debt consolidation,11.87,36,259.9,E2,4,19032.17,3685.72,2,0,3,0
+26,Male,Single,Other,28148.1,2345.67,Student,0.121,589,14427.28,Debt consolidation,13.11,60,329.08,E2,3,25714.59,16629.56,2,0,2,0
+35,Male,Single,Other,23684.08,1973.67,Employed,0.139,687,20590.01,Debt consolidation,16.52,36,729.18,C3,2,17282.07,5623.59,5,0,5,1
+74,Female,Married,Master's,84680.23,7056.69,Employed,0.14,845,24760.82,Other,11.99,36,822.3,A1,5,119059,15972.24,1,0,1,1
+63,Female,Single,PhD,107262.02,8938.5,Employed,0.21,667,4668.9,Home,12.27,36,155.68,D5,4,163895.46,47481.52,2,0,2,1
+57,Male,Divorced,High School,62499.03,5208.25,Retired,0.293,732,20339.85,Debt consolidation,12.44,36,679.86,C5,2,82866.14,18543.47,2,0,2,1
+53,Female,Single,High School,38525.74,3210.48,Employed,0.218,587,4036.62,Business,14.93,36,139.79,E5,3,45334.03,5629.35,2,0,3,1
+28,Female,Married,Bachelor's,30013.45,2501.12,Employed,0.098,744,18340.27,Debt consolidation,11.71,36,606.62,B1,4,43672.55,17204.81,0,0,1,1
+73,Female,Married,High School,21919.91,1826.66,Employed,0.143,761,25011.65,Debt consolidation,12.21,60,559.03,B5,4,26167.97,13037.48,1,0,1,1
+64,Female,Single,Bachelor's,37784.67,3148.72,Employed,0.026,632,18136.83,Debt consolidation,13.78,60,419.95,D1,3,36203.03,29077.03,2,1,2,0
+64,Male,Married,High School,32931.07,2744.26,Employed,0.138,568,17680.17,Car,14.1,36,605.13,F4,4,50564.17,24427.37,2,0,3,1
+25,Male,Married,Bachelor's,19525.57,1627.13,Employed,0.149,801,2163.77,Business,12.22,60,48.37,A2,3,13271.14,4622.97,1,0,1,1
+59,Female,Single,High School,22588.48,1882.37,Employed,0.195,643,16964.13,Debt consolidation,13.31,36,574.12,D1,6,35651.11,30663.86,2,0,2,1
+24,Male,Widowed,High School,11299.31,941.61,Employed,0.291,677,500,Other,9.46,36,16.01,C1,2,14494.2,6292.53,4,0,4,1
+26,Male,Single,Master's,19737.34,1644.78,Employed,0.214,668,5853.94,Medical,10.72,36,190.88,D4,1,10898.99,1051.14,1,0,3,1
+65,Male,Single,High School,46124.64,3843.72,Employed,0.255,673,14733.4,Car,12.56,36,493.31,C5,3,61925.64,15701.68,4,0,4,1
+52,Male,Married,High School,67493.04,5624.42,Employed,0.176,665,27340.01,Other,13.43,36,926.87,D4,2,70637.14,10931.5,3,0,4,0
+72,Male,Single,High School,49835.24,4152.94,Employed,0.111,683,12617.71,Car,12.29,36,420.84,C1,5,73317.65,42947.7,0,0,0,1
+50,Female,Married,Master's,26850.69,2237.56,Self-employed,0.063,630,8343.19,Debt consolidation,16.9,60,206.9,D5,1,37824.16,16714.26,5,0,6,1
+67,Male,Married,Bachelor's,13381.63,1115.14,Student,0.023,659,6963.33,Medical,13.94,60,161.81,D5,2,9303.66,1711.11,3,1,5,1
+55,Female,Divorced,Bachelor's,17717.29,1476.44,Employed,0.181,718,10777.93,Education,11.24,60,235.63,C4,12,21913.86,17057.42,3,0,3,1
+75,Female,Married,High School,47325.94,3943.83,Employed,0.117,675,30832.12,Vacation,10.3,36,999.21,C4,6,68921.1,11291.16,2,0,3,1
+60,Male,Widowed,Bachelor's,46356.01,3863,Student,0.118,713,10540.2,Business,9.02,36,335.27,C5,5,53943.73,27749.35,1,0,1,1
+72,Male,Single,High School,24579.86,2048.32,Employed,0.157,708,13724.89,Car,12.49,36,459.08,C2,6,20746.61,2649.33,1,0,1,1
+36,Male,Single,Bachelor's,28464.78,2372.06,Employed,0.137,745,14482.72,Business,9.49,60,304.09,B3,5,47331.85,9559.02,1,0,1,1
+33,Male,Married,Bachelor's,115326.94,9610.58,Retired,0.149,704,4652.73,Education,13.04,36,156.86,C4,4,151581.47,109913.74,3,0,4,1
+70,Male,Married,Master's,12619.38,1051.62,Retired,0.206,584,19763.34,Home,14.24,36,677.77,E3,6,23099.36,17190.72,0,0,0,1
+62,Male,Married,High School,36536.8,3044.73,Employed,0.172,636,16183.1,Debt consolidation,13.48,60,372.2,D1,3,48401.91,5528.28,0,0,0,1
+50,Female,Married,Master's,17526.76,1460.56,Employed,0.155,728,11198.16,Debt consolidation,9.77,36,360.13,C1,7,29006.65,25590.46,2,0,3,1
+39,Female,Single,High School,18184.37,1515.36,Employed,0.034,798,22699.93,Education,7.61,60,456.05,B3,3,14950.44,12770.32,1,0,1,1
+37,Male,Married,Bachelor's,46643.22,3886.94,Retired,0.084,710,2911.66,Business,14.55,36,100.29,C1,6,38118.78,21782.21,1,0,1,1
+39,Male,Divorced,High School,100514.38,8376.2,Unemployed,0.205,700,8332.98,Other,11.01,36,272.85,C4,3,117816.8,108728.2,1,0,2,0
+48,Female,Married,PhD,52612.37,4384.36,Unemployed,0.18,600,15094.72,Other,13.36,60,346.24,E4,7,77087.77,55634.58,4,0,5,0
+75,Female,Single,High School,92761.53,7730.13,Employed,0.123,615,570.42,Debt consolidation,16.2,36,20.11,D4,2,115032.3,84014.13,0,0,0,1
+46,Female,Married,Bachelor's,11393.42,949.45,Unemployed,0.077,702,6174.06,Education,13.13,60,140.89,C4,3,17666.73,10908.95,0,0,0,1
+57,Female,Single,High School,48769.16,4064.1,Self-employed,0.063,548,16962.2,Debt consolidation,16.08,60,413.21,F4,8,75804.28,23673.94,0,0,0,1
+46,Male,Married,Bachelor's,62531.87,5210.99,Unemployed,0.141,834,22448.5,Debt consolidation,13.61,60,517.81,A5,2,59173.48,3749.46,2,0,2,1
+73,Male,Single,Bachelor's,31362.31,2613.53,Employed,0.239,802,500,Debt consolidation,8.21,36,15.72,A3,2,23341,18393.84,0,0,1,1
+43,Female,Single,High School,59778.53,4981.54,Employed,0.176,722,1726,Education,10.43,36,56.04,C5,6,68383.28,29351.64,0,0,2,1
+29,Male,Single,Master's,170665.74,14222.14,Employed,0.283,719,16279.44,Debt consolidation,12.17,60,363.53,C4,3,182954.19,141462.49,5,0,6,1
+32,Other,Single,Master's,39735.93,3311.33,Employed,0.108,827,16579.46,Education,8.63,60,341.19,A2,4,35751.74,2622.33,0,0,0,1
+73,Female,Married,High School,28699.2,2391.6,Employed,0.261,782,5354.91,Debt consolidation,11.6,36,176.84,B5,6,27834.56,11541.58,0,2,0,1
+21,Female,Single,Bachelor's,71796.64,5983.05,Unemployed,0.022,691,34549.81,Business,15.02,36,1198.02,C2,4,83536.2,48237.55,2,0,3,1
+21,Male,Married,Bachelor's,70615.73,5884.64,Unemployed,0.266,700,26895.46,Home,10.41,60,576.89,C1,3,49652.8,6258.84,2,0,2,0
+67,Female,Married,Master's,30887.82,2573.98,Self-employed,0.052,753,13831.3,Medical,8.09,36,434,B2,7,52601.69,16484.1,1,0,1,1
+54,Female,Single,Bachelor's,26065.67,2172.14,Employed,0.26,736,14080.49,Debt consolidation,11.71,36,465.73,C3,5,42752.66,18148.21,3,0,3,1
+52,Male,Married,High School,70550.42,5879.2,Employed,0.115,692,17937.99,Debt consolidation,12.53,36,600.35,C4,7,60096.99,16980.38,2,0,2,1
+74,Male,Married,Master's,27947.37,2328.95,Employed,0.132,820,23271.64,Home,8.79,36,737.76,A1,3,35561.05,2919.61,1,0,1,1
+68,Female,Married,High School,35156.98,2929.75,Employed,0.143,578,9464.62,Education,12.92,60,214.96,F4,5,35330.99,25828.37,4,0,4,0
+45,Female,Married,High School,43599.45,3633.29,Employed,0.087,692,23791.97,Debt consolidation,14.77,60,563.14,C5,10,47363.69,38518.78,2,0,2,1
+60,Male,Single,Master's,32481.45,2706.79,Unemployed,0.17,749,11344.76,Education,11.95,36,376.54,B3,3,36576.31,12654.14,2,0,3,0
+65,Male,Married,High School,36764.69,3063.72,Employed,0.086,553,500,Education,13.94,36,17.07,F2,5,27623.64,11495.02,1,0,2,1
+73,Female,Single,High School,22130.13,1844.18,Employed,0.2,649,23511.2,Debt consolidation,11,36,769.73,D5,2,28469.29,10483.46,4,1,4,1
+21,Female,Married,Bachelor's,50905.67,4242.14,Unemployed,0.122,662,19597.6,Debt consolidation,10.15,36,633.74,D1,3,49032.4,42238.07,1,0,1,0
+36,Female,Divorced,Master's,28481.08,2373.42,Employed,0.241,629,19096.87,Other,12.48,36,638.68,D3,2,34385.82,9221.69,2,1,2,0
+59,Female,Single,High School,91105.57,7592.13,Unemployed,0.092,829,10279.62,Education,12.17,60,229.55,A4,5,107443.16,46962.25,1,0,1,1
+25,Male,Married,Bachelor's,38977.31,3248.11,Unemployed,0.04,668,14815.4,Debt consolidation,13.01,60,337.17,D3,4,54676.9,2940.11,1,0,2,0
+42,Female,Single,High School,67346.42,5612.2,Self-employed,0.212,715,3458.26,Car,10.1,60,73.65,C5,6,94923.23,28811.51,3,2,4,1
+49,Male,Single,Bachelor's,52966.4,4413.87,Employed,0.289,805,23476.57,Car,10.8,36,766.37,A4,5,50999.69,3560.08,0,1,0,1
+75,Female,Married,Master's,71146.98,5928.92,Employed,0.192,654,10850.69,Business,13.47,36,368.06,D2,4,44757.69,10719.84,4,0,4,0
+23,Female,Married,Bachelor's,27758.91,2313.24,Employed,0.177,688,10764.92,Debt consolidation,11.02,36,352.53,C2,5,36616.56,14057.84,2,0,4,1
+32,Male,Single,Master's,17846.28,1487.19,Employed,0.152,578,8916.55,Education,13.64,36,303.19,F1,7,33555.11,18833.76,2,0,3,0
+46,Male,Single,Bachelor's,21185.84,1765.49,Employed,0.209,566,15010,Home,16.57,36,531.94,F4,5,25548.02,9789.25,2,0,2,1
+36,Female,Married,Bachelor's,20268.99,1689.08,Employed,0.014,538,24269.66,Debt consolidation,14.06,36,830.19,F1,7,34131.89,21009.53,2,0,2,1
+71,Male,Single,Bachelor's,22229,1852.42,Employed,0.059,717,500,Business,13.83,60,11.59,C4,4,15321.04,1621.09,0,0,3,1
+57,Male,Single,Master's,17946.52,1495.54,Employed,0.133,700,10891.98,Education,9.04,36,346.56,C5,5,15113.55,1191.85,1,0,2,1
+42,Female,Married,Bachelor's,33875.69,2822.97,Self-employed,0.147,671,49039.69,Home,12.31,36,1636.09,C4,6,28323.8,8635.71,3,0,4,1
+49,Male,Divorced,Master's,56852.59,4737.72,Employed,0.101,648,7301.79,Debt consolidation,11.14,36,239.54,D1,12,72364.75,14347.46,2,0,2,1
+34,Female,Single,Other,16720.42,1393.37,Employed,0.087,567,20971.52,Debt consolidation,16.89,60,519.96,F3,4,20431.43,8541.09,1,0,2,0
+48,Male,Married,Master's,24253.51,2021.13,Employed,0.067,624,21351.96,Debt consolidation,16.14,36,752.15,D1,6,38479.27,28221,1,0,1,1
+25,Female,Single,Other,67089.2,5590.77,Employed,0.072,565,12271.98,Car,12.14,36,408.43,F1,3,73823.85,19052.71,1,0,1,1
+67,Male,Single,Bachelor's,14350.7,1195.89,Employed,0.211,752,19750.68,Debt consolidation,11.5,36,651.3,B1,2,12403.64,5244.12,0,0,0,1
+69,Male,Married,High School,36300.94,3025.08,Employed,0.421,622,3881.21,Other,15.03,60,92.39,D2,4,29049.98,22542.36,4,0,4,1
+50,Female,Divorced,Bachelor's,51716.22,4309.69,Self-employed,0.203,762,27373.9,Car,4.46,36,813.8,B5,8,38438.92,10475.76,1,0,2,0
+66,Female,Single,High School,126970.87,10580.91,Employed,0.254,717,15670.45,Business,12.63,36,525.21,C5,4,109059.83,70840.79,5,0,5,1
+72,Male,Single,Bachelor's,8809.75,734.15,Employed,0.094,733,9544.19,Car,11.42,36,314.37,C1,7,20094.42,15955.38,1,0,1,1
+25,Male,Single,Bachelor's,16471.36,1372.61,Employed,0.291,674,25540.53,Business,12.28,36,851.73,C5,4,16336.21,10197.37,4,0,4,1
+32,Female,Single,High School,43286.47,3607.21,Self-employed,0.325,720,2181.04,Car,11.79,60,48.28,C2,4,58724.74,21844.94,2,0,3,1
+36,Female,Married,Bachelor's,29021.07,2418.42,Employed,0.184,621,10623.2,Education,13.67,60,245.37,D4,9,52003.83,30556.24,1,0,1,1
+46,Other,Married,Bachelor's,7014.62,584.55,Employed,0.078,608,42215.64,Medical,14.74,36,1458.05,E2,5,13920.09,8336.05,2,0,3,1
+46,Other,Married,High School,27803.6,2316.97,Employed,0.183,676,4131.38,Medical,12.27,36,137.75,C1,4,18973.57,5709.21,2,0,4,1
+68,Female,Married,High School,21076.66,1756.39,Employed,0.126,697,8606.03,Car,12.73,60,194.63,C3,3,23729.1,15568.19,2,0,2,0
+41,Male,Married,Master's,13502.05,1125.17,Self-employed,0.365,682,19339.16,Education,11.49,36,637.64,C1,7,16259.66,11544.92,1,0,2,1
+59,Female,Single,Bachelor's,28903.52,2408.63,Self-employed,0.128,624,1032.19,Business,15.81,36,36.19,D2,3,30982.12,14849.31,3,0,3,0
+56,Female,Married,Master's,16395.15,1366.26,Employed,0.076,680,10576.31,Business,14.12,36,362.09,C4,4,21722.94,17997.56,3,0,4,1
+53,Male,Divorced,PhD,21605.25,1800.44,Employed,0.055,760,11635.76,Other,10.44,60,249.75,B5,15,44701.73,16602.42,2,0,2,1
+50,Male,Single,Master's,79174.11,6597.84,Employed,0.107,641,23426.91,Debt consolidation,13.47,36,794.66,D4,6,120703.04,87196.66,1,0,1,0
+57,Male,Married,Bachelor's,111158.35,9263.2,Employed,0.12,628,17134.98,Debt consolidation,14.16,36,586.97,D4,6,129311.91,41065.55,3,0,3,1
+43,Male,Married,Master's,21134.05,1761.17,Employed,0.082,769,30420.19,Home,10.38,36,987.01,B3,2,29184.95,12994.11,1,0,2,1
+30,Male,Single,High School,38925.23,3243.77,Self-employed,0.198,728,21998.9,Education,11.52,36,725.65,C3,4,28939.94,9137.25,1,0,2,1
+74,Female,Single,Bachelor's,52780.12,4398.34,Employed,0.172,562,10347.67,Vacation,17.61,60,260.57,F5,3,61883.18,45410.41,6,0,6,1
+25,Female,Married,Bachelor's,21859,1821.58,Employed,0.102,647,21286.84,Debt consolidation,12.34,36,710.49,D3,14,29432.92,20381.89,0,0,0,1
+56,Female,Married,Bachelor's,20292.66,1691.06,Student,0.081,736,15254.71,Education,10.4,36,495.1,C1,4,31943.78,5582.93,3,0,3,1
+54,Male,Married,Master's,53194.74,4432.89,Employed,0.101,784,21089.37,Medical,9.29,36,673.49,B2,4,54698.91,16478.82,1,0,2,1
+72,Male,Single,Bachelor's,31656.15,2638.01,Employed,0.099,602,14371.06,Education,15.06,36,498.6,E4,9,24903.3,7490.13,1,0,2,1
+51,Female,Married,Bachelor's,31910.16,2659.18,Employed,0.153,627,500,Vacation,13.36,60,11.47,D5,3,33428.74,24040.54,2,0,2,1
+30,Male,Single,High School,17999.06,1499.92,Retired,0.347,638,16406.7,Home,10.87,36,536.12,D3,6,28249.5,22997.13,0,0,0,1
+39,Female,Single,Bachelor's,19658.81,1638.23,Employed,0.224,595,19205.24,Other,11.07,60,418.24,E1,5,15679.17,2396.84,6,0,6,1
+52,Female,Single,Bachelor's,37709.25,3142.44,Employed,0.315,784,11365.15,Education,11.09,36,372.57,B2,7,63066.91,38559.09,2,0,2,1
+21,Male,Married,Bachelor's,27956.06,2329.67,Employed,0.031,624,8198.36,Home,14.49,60,192.85,D2,6,39462.46,8590.24,1,0,3,1
+25,Male,Single,Bachelor's,38372.62,3197.72,Employed,0.371,606,19650.53,Car,15.85,36,689.4,E5,4,41935.79,34379.78,2,0,2,1
+65,Male,Single,Bachelor's,63857.95,5321.5,Employed,0.101,764,7851.69,Other,10.31,36,254.5,B4,2,62543.69,12405.46,2,0,2,1
+24,Female,Single,Bachelor's,39696.29,3308.02,Employed,0.177,671,13430.48,Vacation,11.97,36,445.89,C3,4,56116.97,15043.88,3,0,3,1
+36,Female,Single,Bachelor's,24587.19,2048.93,Unemployed,0.088,622,25939.56,Other,12.07,36,862.43,D5,3,30432.8,27436.15,4,0,4,0
+44,Female,Single,Bachelor's,62525.64,5210.47,Unemployed,0.141,697,12332.2,Vacation,12.98,60,280.47,C4,6,79150.95,16708.09,1,0,4,0
+36,Male,Married,High School,35593.32,2966.11,Self-employed,0.175,699,19092.96,Home,15.67,36,668.15,C2,5,34574.45,6855.23,1,2,1,1
+75,Other,Married,High School,79736.99,6644.75,Employed,0.206,547,23633.06,Home,18.91,60,611.88,F2,7,105484.54,18497.38,1,0,3,0
+22,Male,Married,Bachelor's,23696.42,1974.7,Employed,0.158,642,500,Debt consolidation,15.14,60,11.93,D4,5,36883.5,4792.25,3,0,3,1
+69,Male,Married,Master's,33884.12,2823.68,Employed,0.16,702,16696.05,Debt consolidation,14.49,36,574.61,C2,3,33112.45,2351.64,0,0,2,1
+48,Female,Single,High School,29596.14,2466.34,Retired,0.143,677,22193.89,Education,10.67,36,723.14,C3,9,25010.45,12635.85,4,0,5,1
+52,Female,Divorced,Bachelor's,38673.38,3222.78,Unemployed,0.444,682,10592.08,Business,12.98,36,356.79,C3,4,58841.92,41806.02,2,0,2,0
+47,Male,Single,Master's,41719.15,3476.6,Employed,0.24,715,4130.82,Debt consolidation,12.23,36,137.66,C1,4,33490.8,18553.06,2,0,3,1
+40,Male,Married,High School,36144.55,3012.05,Student,0.075,690,24517.33,Debt consolidation,8.85,36,777.93,C1,5,40111.7,12745.17,1,0,1,1
+44,Male,Divorced,High School,58899.56,4908.3,Employed,0.133,630,7166.49,Debt consolidation,14.75,36,247.55,D1,4,36160.62,25868.36,0,0,0,0
+32,Male,Married,PhD,46400.2,3866.68,Employed,0.143,720,23562.76,Home,10.05,60,501.22,C3,6,41951.74,28641.09,0,0,2,1
+70,Male,Single,High School,157405.69,13117.14,Employed,0.095,772,14631.15,Debt consolidation,9.97,60,310.65,B3,5,192207.74,135051.11,3,0,5,1
+55,Female,Single,Bachelor's,173292.56,14441.05,Employed,0.109,732,29574.61,Other,9,36,940.46,C1,7,236220.8,30177.8,2,0,2,1
+53,Female,Single,Bachelor's,23808.52,1984.04,Employed,0.06,749,18632.94,Medical,9.68,36,598.44,B3,4,30348.41,14838.56,0,0,0,1
+53,Female,Married,High School,26458.03,2204.84,Employed,0.439,617,4035.34,Business,13.78,36,137.49,D1,6,30925.36,18459.78,5,0,6,0
+71,Female,Married,High School,16790.35,1399.2,Employed,0.025,662,30624.55,Business,16.4,60,751.25,D2,5,29682.37,26492.4,0,0,1,1
+63,Female,Married,Bachelor's,95606.25,7967.19,Employed,0.264,672,21755.12,Medical,11.13,60,474.42,C4,8,93350.68,62410.43,6,0,7,1
+57,Female,Single,Master's,27881.83,2323.49,Employed,0.037,648,6463.69,Debt consolidation,11.3,36,212.53,D1,1,42442.32,29469.7,1,0,1,1
+32,Female,Married,High School,42254.11,3521.18,Employed,0.419,804,21674.09,Debt consolidation,9.27,36,691.96,A2,4,50076.87,9350.14,3,0,3,1
+23,Male,Married,Bachelor's,17592.46,1466.04,Retired,0.046,631,25934.29,Debt consolidation,13.23,60,593.14,D5,8,31133.1,13753.25,0,0,1,1
+21,Female,Single,Bachelor's,39060.94,3255.08,Employed,0.366,640,16752.73,Debt consolidation,11.22,60,366.09,D2,4,52279.74,22570.6,5,0,5,1
+53,Female,Single,Bachelor's,12579.94,1048.33,Employed,0.069,652,3964.63,Debt consolidation,12.78,36,133.16,D2,5,22549.53,2902.83,2,0,2,1
+60,Female,Married,Bachelor's,74335.23,6194.6,Employed,0.533,754,12910.96,Debt consolidation,7.1,60,256.26,B5,4,103982.5,96641.28,3,0,3,0
+30,Other,Married,High School,109103.2,9091.93,Employed,0.084,678,13830.3,Business,15.76,60,334.56,C5,4,167375.4,52362.72,3,0,3,1
+63,Male,Single,Bachelor's,55216.17,4601.35,Employed,0.046,620,8896.96,Other,13.95,36,303.86,D3,9,75686.47,6157.74,1,0,1,1
+64,Female,Single,Bachelor's,20550.06,1712.5,Employed,0.04,669,500,Car,11.23,36,16.42,D1,2,21323.81,13697.3,1,0,1,1
+49,Male,Married,Bachelor's,50641.28,4220.11,Employed,0.082,670,3985.99,Debt consolidation,16.03,36,140.19,C5,8,74506.42,59717.85,1,0,1,1
+33,Female,Single,Bachelor's,40879.09,3406.59,Unemployed,0.242,573,20071.95,Debt consolidation,15.44,60,482.16,F1,3,31199.12,15165.68,3,1,4,0
+32,Male,Single,Master's,83602.64,6966.89,Self-employed,0.126,688,9653.48,Debt consolidation,11.03,36,316.18,C4,9,129837.65,13190.61,1,1,1,1
+51,Male,Married,Bachelor's,60337.29,5028.11,Employed,0.151,697,3473.7,Education,16.2,60,84.84,C2,7,80940.42,41238.64,1,0,1,1
+66,Male,Married,Bachelor's,19064.24,1588.69,Employed,0.142,571,35868.09,Home,19.28,36,1319.86,F4,7,29078.25,17014.96,2,0,3,1
+22,Female,Married,PhD,72941.2,6078.43,Retired,0.178,690,11907.07,Car,12.83,36,400.22,C5,4,73382.83,5606.48,1,0,1,1
+71,Male,Married,Other,34598.67,2883.22,Employed,0.062,750,16885.32,Debt consolidation,10.43,36,548.26,B1,5,24622.52,16738.9,1,0,3,1
+70,Female,Married,Bachelor's,79987.29,6665.61,Unemployed,0.257,627,20267.84,Car,14.12,36,693.89,D1,1,57901.89,53419.13,2,0,2,0
+55,Male,Married,Bachelor's,14198.13,1183.18,Employed,0.156,701,11415.27,Debt consolidation,9.66,60,240.64,C5,5,16221.63,10950.61,1,0,1,1
+43,Female,Divorced,Master's,49806.41,4150.53,Unemployed,0.164,789,8463.09,Medical,10.71,60,182.79,B4,5,79543.82,39797.43,1,0,1,1
+37,Female,Single,High School,30431.16,2535.93,Employed,0.022,797,3486.14,Other,10.01,36,112.5,B4,3,41708.45,30109.22,0,0,1,1
+46,Male,Single,Bachelor's,38457.92,3204.83,Self-employed,0.035,727,26266.62,Debt consolidation,7.66,36,818.99,C2,1,48912.76,8235.3,2,0,2,1
+28,Male,Single,Bachelor's,24168.96,2014.08,Employed,0.268,785,26093.18,Car,9.22,60,544.44,B2,2,21453.77,19667.2,1,0,2,1
+49,Female,Married,Other,49050.24,4087.52,Employed,0.245,747,17821.82,Medical,12.49,60,400.86,B2,7,48964.95,25721.23,4,0,4,0
+46,Female,Married,Other,20708.31,1725.69,Employed,0.245,572,15485.05,Home,13.87,60,359.27,F1,0,25707.96,16252.9,5,0,6,1
+30,Female,Single,Master's,14199.07,1183.26,Employed,0.047,682,500,Business,14.75,60,11.83,C2,4,11814.54,2124.99,1,0,3,1
+46,Male,Single,Bachelor's,23154.15,1929.51,Employed,0.222,695,18702.13,Debt consolidation,13.68,36,636.29,C5,10,35178.09,11700.69,0,0,1,1
+54,Female,Single,Bachelor's,23300.98,1941.75,Employed,0.371,722,2093.2,Debt consolidation,11.3,36,68.83,C1,6,40769.27,26036.14,3,0,3,1
+71,Other,Single,Bachelor's,30065.93,2505.49,Employed,0.131,585,13796.79,Car,14.66,36,475.98,E1,7,33742.78,17949.05,2,0,2,1
+61,Male,Divorced,Master's,55694.5,4641.21,Employed,0.171,696,20328.62,Debt consolidation,14.58,36,700.52,C5,5,66096.39,18021.11,2,0,2,1
+27,Male,Married,Master's,20743.82,1728.65,Self-employed,0.093,574,7876.54,Vacation,15.61,36,275.4,F2,9,23669.18,18201.21,2,0,3,1
+24,Male,Single,Master's,58336.58,4861.38,Retired,0.066,727,14904.79,Debt consolidation,10.32,60,319.03,C5,2,81357.35,27569.84,0,0,0,1
+73,Female,Single,High School,51428.69,4285.72,Employed,0.266,589,4947.26,Debt consolidation,16.5,36,175.15,E5,9,67046.22,57542.5,3,0,4,1
+70,Female,Single,Bachelor's,66501.89,5541.82,Employed,0.2,575,23996.33,Debt consolidation,12.18,36,799.09,F3,6,96332.19,46114.16,2,0,2,1
+65,Male,Married,Bachelor's,29121.62,2426.8,Employed,0.112,618,20838.08,Debt consolidation,12.68,60,470.72,D1,6,38661.89,15410.65,1,0,1,1
+31,Male,Married,High School,92545.31,7712.11,Retired,0.021,615,17255.67,Medical,15.63,36,603.51,D2,4,53615.3,18594,0,0,1,1
+49,Male,Widowed,Bachelor's,30374.33,2531.19,Employed,0.198,598,13744.48,Other,16.17,60,335.48,E2,9,26888.91,18583.43,0,0,1,1
+56,Male,Married,High School,62206.34,5183.86,Employed,0.033,707,23476.65,Debt consolidation,10.87,36,767.15,C5,5,67358.11,9806.01,1,0,1,1
+45,Male,Married,Other,99124,8260.33,Employed,0.197,705,22154.67,Education,15.44,60,532.19,C2,6,87415.54,32951.63,5,0,5,0
+41,Other,Married,Master's,74852.93,6237.74,Employed,0.01,663,17012.13,Medical,11.34,36,559.7,D1,5,44931.41,10906.33,0,0,1,1
+56,Male,Married,Bachelor's,33883.56,2823.63,Employed,0.332,662,4682.43,Home,12.69,36,157.07,D1,9,45305.96,4734.08,7,0,7,1
+30,Male,Single,High School,18665.2,1555.43,Employed,0.137,565,7945.84,Car,15.64,60,191.71,F4,5,28976.58,15008.29,2,0,2,1
+57,Female,Married,Bachelor's,20447.54,1703.96,Employed,0.209,686,7141.27,Debt consolidation,13.49,36,242.31,C3,2,15797.3,12066.94,1,0,1,1
+29,Female,Married,High School,20054.62,1671.22,Unemployed,0.216,701,24861.89,Debt consolidation,14.37,36,854.2,C1,5,27316.66,11948.56,5,0,5,0
+44,Female,Married,Bachelor's,24046.11,2003.84,Self-employed,0.142,693,33605.89,Home,14.15,36,1151.02,C2,6,19778.83,17264.11,1,1,1,1
+55,Male,Single,Master's,35570.81,2964.23,Employed,0.163,653,13536.24,Home,15.39,36,471.83,D4,5,52432.35,48488.48,1,0,1,1
+69,Male,Single,High School,53431.18,4452.6,Retired,0.17,767,15941.28,Home,12.77,36,535.36,B2,6,84791.19,51313.94,2,0,2,1
+55,Female,Single,High School,57969.49,4830.79,Employed,0.241,640,22161.73,Car,12.95,36,746.18,D5,12,90830.71,43840.29,2,0,3,1
+68,Female,Single,High School,64657.01,5388.08,Employed,0.141,676,13212.61,Debt consolidation,13.31,36,447.16,C3,6,84976.34,60136.1,2,0,2,1
+56,Male,Divorced,Master's,62372.38,5197.7,Self-employed,0.108,698,16697.39,Debt consolidation,11.38,36,549.66,C3,4,63487.83,57006.56,3,0,4,1
+38,Female,Married,PhD,33731.47,2810.96,Employed,0.105,625,6634.91,Debt consolidation,13.85,36,226.28,D1,3,34941.08,4347.38,1,0,1,1
+69,Female,Married,Master's,53670.78,4472.56,Employed,0.011,705,6470.18,Other,13.17,60,147.78,C2,6,42368.7,38091.51,2,0,2,1
+59,Male,Married,Bachelor's,30968.05,2580.67,Employed,0.122,616,10992.94,Business,15.73,36,385.02,D2,4,39427.77,3129.66,0,0,0,1
+52,Female,Married,High School,43581.85,3631.82,Employed,0.117,714,27717.89,Car,10.63,60,597.55,C3,7,41014.72,28267.71,1,0,3,1
+44,Female,Widowed,Master's,31679.85,2639.99,Employed,0.214,662,25930.47,Debt consolidation,15.08,60,617.97,D2,6,39429.77,31619.52,3,0,3,1
+43,Male,Single,High School,35826.66,2985.56,Employed,0.471,480,11894.15,Home,19,36,435.99,F1,6,58740.21,51989.79,4,0,4,1
+52,Female,Married,Bachelor's,29526.04,2460.5,Employed,0.043,746,29478.45,Other,11.85,36,977,B3,5,43517.3,21662.09,4,0,5,1
+57,Female,Single,Bachelor's,12484.07,1040.34,Employed,0.118,652,26076.51,Business,15.36,60,625.3,D2,4,17500.28,10649.04,0,0,0,1
+32,Female,Married,Bachelor's,30891.65,2574.3,Employed,0.067,752,1765.22,Debt consolidation,13.2,60,40.35,B4,3,21780.23,3220.49,2,0,3,1
+69,Male,Married,Bachelor's,52139.95,4345,Self-employed,0.164,684,22749.21,Debt consolidation,11.35,60,498.6,C3,3,73440.18,29186.02,1,2,2,1
+75,Male,Divorced,Master's,64194.92,5349.58,Employed,0.166,850,12993.28,Debt consolidation,10.23,36,420.66,A4,2,60123.63,55896.11,2,0,3,1
+33,Female,Single,High School,48732.13,4061.01,Unemployed,0.12,594,19633.47,Medical,16.63,60,484.04,E3,7,43933.13,37478.3,4,0,4,0
+43,Male,Single,Master's,20456.18,1704.68,Employed,0.094,747,28681.01,Debt consolidation,12.51,36,959.62,B4,5,34922.82,31037.39,3,0,4,1
+45,Male,Single,Master's,26876.08,2239.67,Employed,0.201,716,10198.08,Vacation,9.07,36,324.63,C4,7,40899.85,11725.35,1,0,1,1
+55,Male,Married,Bachelor's,13866.68,1155.56,Employed,0.243,615,6510.55,Business,13.28,60,149.07,D1,9,28585.99,8524.83,6,0,6,0
+61,Male,Married,High School,54567.55,4547.3,Employed,0.205,603,5310.35,Other,16,36,186.7,E2,8,75191.41,57037.06,2,0,4,1
+50,Female,Single,Bachelor's,21263.38,1771.95,Unemployed,0.071,763,4749.37,Debt consolidation,9.82,60,100.49,B1,6,29445.48,22839.64,1,0,2,1
+37,Male,Married,Master's,45405.21,3783.77,Employed,0.225,575,14066.51,Debt consolidation,15.21,36,489.07,F4,4,58993.73,43301.03,2,0,2,0
+69,Female,Single,High School,47533.46,3961.12,Employed,0.235,727,12136.7,Car,11.32,60,265.82,C4,7,49457.51,17997.06,2,0,2,1
+40,Male,Married,Master's,21309.04,1775.75,Employed,0.168,754,24110.15,Other,10.27,36,781.03,B2,3,30808.1,7685.98,0,0,0,1
+68,Female,Single,Bachelor's,42732.62,3561.05,Employed,0.304,733,500,Car,8.79,36,15.85,C3,4,64218.09,41351.4,2,0,3,1
+45,Male,Single,Other,107619.16,8968.26,Self-employed,0.096,574,26589.75,Debt consolidation,14,36,908.77,F3,6,154099.71,38316.33,3,0,4,1
+42,Female,Married,Master's,29428.42,2452.37,Employed,0.075,629,32878.23,Debt consolidation,12.2,60,734.69,D2,7,28081.17,25684.52,0,0,0,1
+33,Female,Married,High School,69614.09,5801.17,Employed,0.247,603,14801.96,Debt consolidation,16.2,60,361.53,E4,7,51693.28,45111.84,3,0,4,1
+39,Male,Single,Bachelor's,42608.01,3550.67,Unemployed,0.258,750,30653.89,Debt consolidation,14.15,36,1049.91,B4,4,44530.4,27675.32,2,0,3,0
+69,Female,Married,High School,43629.22,3635.77,Employed,0.132,728,14619.37,Debt consolidation,10.53,36,475.37,C5,6,55377.28,45531.75,2,0,3,1
+56,Male,Married,High School,34375.31,2864.61,Employed,0.279,629,28697.9,Debt consolidation,10.28,36,929.78,D4,6,43530.05,33865.35,4,0,4,1
+32,Female,Married,Master's,63551.19,5295.93,Employed,0.493,613,6624.9,Debt consolidation,11.95,60,147.2,D2,5,47755.69,35185.17,2,0,2,0
+61,Other,Married,PhD,33046.55,2753.88,Employed,0.159,767,16126.94,Debt consolidation,10.23,36,522.11,B5,3,34991.87,12595.55,1,2,2,1
+39,Female,Married,Other,52062.88,4338.57,Employed,0.145,701,18165.39,Debt consolidation,11.36,60,398.23,C4,3,38365.67,25075.65,0,0,0,1
+32,Female,Divorced,High School,63626.58,5302.22,Employed,0.086,786,3763.39,Debt consolidation,11.13,60,82.07,B5,6,76845.79,29725.89,0,0,0,1
+29,Male,Married,High School,66783.46,5565.29,Unemployed,0.302,640,34184.25,Car,12.64,36,1145.88,D3,5,76304.05,26396.57,5,0,5,0
+27,Male,Divorced,Bachelor's,50945.1,4245.42,Unemployed,0.129,648,15104.9,Medical,15.98,36,530.89,D4,8,83685.22,57827.08,0,0,1,0
+48,Male,Married,High School,57278.11,4773.18,Employed,0.273,667,12011.59,Vacation,13.02,60,273.42,D1,7,91027.41,6417.58,1,0,1,1
+34,Female,Married,High School,36966.19,3080.52,Employed,0.124,733,7875.2,Vacation,13.73,36,268.12,C1,5,43679.64,2717.11,0,0,0,1
+51,Female,Married,Master's,28148.25,2345.69,Student,0.251,748,14944.43,Business,8.32,36,470.51,B3,4,40373.29,7109.26,2,0,2,0
+72,Male,Single,Master's,44266.42,3688.87,Self-employed,0.066,718,13449.05,Education,10.54,60,289.34,C2,4,42798.38,25322.59,4,0,7,1
+39,Female,Divorced,PhD,44516.4,3709.7,Employed,0.251,691,25294.48,Debt consolidation,11.35,36,832.31,C1,3,54926.17,45679.58,0,0,2,1
+67,Male,Married,Bachelor's,44387.29,3698.94,Employed,0.156,713,28091.83,Debt consolidation,12.05,36,933.72,C4,4,34214.02,11269.91,3,0,3,1
+36,Male,Single,Bachelor's,70892.43,5907.7,Employed,0.246,686,23083.04,Debt consolidation,13.54,36,783.78,C5,6,53181.09,36660.49,1,0,3,1
+73,Female,Single,Master's,37067.05,3088.92,Employed,0.089,660,22085.53,Debt consolidation,10.86,60,478.65,D4,6,25189.74,16930.7,0,0,0,1
+25,Male,Married,High School,16126.06,1343.84,Unemployed,0.132,826,16965.17,Home,8.32,36,534.13,A2,5,27700.45,3917.35,2,0,3,1
+55,Female,Married,Master's,10710.3,892.52,Employed,0.117,776,500,Car,8.81,36,15.86,B1,4,17902.66,13251.76,1,0,2,1
+32,Male,Single,High School,40658.63,3388.22,Student,0.361,725,19244.92,Other,13.23,36,650.57,C2,3,53641.27,17855.33,1,1,1,0
+45,Female,Single,Master's,67268.17,5605.68,Employed,0.318,668,15425.27,Medical,9.13,36,491.45,D4,4,93139.85,12867.88,4,0,5,1
+72,Male,Married,Master's,32025.39,2668.78,Employed,0.209,597,17766.91,Other,11.65,36,587.15,E5,1,43873.57,9867.46,4,0,4,0
+41,Male,Single,Bachelor's,112100.12,9341.68,Employed,0.097,680,18893.47,Car,9.94,60,400.87,C1,5,136951.5,50520.14,1,0,1,1
+56,Female,Married,Master's,40082.52,3340.21,Employed,0.071,601,14796.48,Debt consolidation,13.5,36,502.12,E1,7,38214.01,30707.93,5,0,6,1
+73,Female,Married,High School,153732.17,12811.01,Unemployed,0.217,719,26007.72,Debt consolidation,10.57,60,559.91,C4,8,112307.46,70734.54,5,0,5,0
+43,Male,Married,Bachelor's,34494.32,2874.53,Employed,0.094,707,16750.93,Debt consolidation,9.65,36,537.76,C1,8,50719.01,44636.06,2,0,3,1
