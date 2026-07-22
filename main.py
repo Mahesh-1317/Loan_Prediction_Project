@@ -198,3 +198,33 @@ ConfusionMatrixDisplay.from_predictions(
 
 plt.title("XGBoost")
 plt.show()
+
+
+#   Feature Importance
+feature_importance = rf_model.feature_importances_
+
+importance_df = pd.DataFrame({
+    "Feature": X.columns,
+    "Importance": feature_importance
+})
+
+importance_df = importance_df.sort_values(
+    by="Importance",
+    ascending=False
+)
+
+print("\nFeature Importance")
+
+print(importance_df)
+
+plt.figure(figsize=(12,6))
+plt.bar(
+    importance_df["Feature"],
+    importance_df["Importance"]
+)
+plt.title("Random Forest Feature Importance")
+plt.xlabel("Features")
+plt.ylabel("Importance Score")
+plt.xticks(rotation=90)
+plt.tight_layout()
+plt.show()
