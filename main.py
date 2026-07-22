@@ -228,3 +228,42 @@ plt.ylabel("Importance Score")
 plt.xticks(rotation=90)
 plt.tight_layout()
 plt.show()
+
+
+#   Prediction of 5 new applicants
+new_applicants = pd.DataFrame({
+
+    "age":[30,45,27,50,35],
+    "gender":[1,0,1,2,0],
+    "marital_status":[0,1,1,0,1],
+    "education_level":[2,1,0,2,1],
+    "annual_income":[600000,900000,350000,1200000,500000],
+    "monthly_income":[50000,75000,29000,100000,42000],
+    "employment_status":[1,1,0,1,1],
+    "debt_to_income_ratio":[0.30,0.22,0.48,0.18,0.35],
+    "credit_score":[720,810,610,790,680],
+    "loan_amount":[300000,500000,250000,650000,350000],
+    "loan_purpose":[1,2,0,1,2],
+    "interest_rate":[11.5,9.8,13.4,8.9,10.6],
+    "loan_term":[36,60,24,48,36],
+    "installment":[9800,10500,9500,13000,10000],
+    "grade_subgrade":[3,1,5,2,4],
+    "num_of_open_accounts":[4,7,3,8,5],
+    "total_credit_limit":[900000,1400000,500000,1700000,800000],
+    "current_balance":[200000,350000,180000,300000,220000],
+    "delinquency_history":[0,0,1,0,0],
+    "public_records":[0,0,0,0,0],
+    "num_of_delinquencies":[0,1,2,0,1]
+})
+
+new_scaled = scaler.transform(new_applicants)
+prediction = log_model.predict(new_scaled)
+probability = log_model.predict_proba(new_scaled)
+
+print("\n========== Prediction Results ==========")
+
+for i in range(len(new_applicants)):
+    print(f"\nApplicant {i+1}")
+    print("Prediction :", prediction[i])
+    print("Probability of Default :", round(probability[i][0],4))
+    print("Probability of Loan Paid Back :", round(probability[i][1],4))
