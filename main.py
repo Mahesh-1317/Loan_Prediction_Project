@@ -104,12 +104,13 @@ X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.20,random_st
 from sklearn.preprocessing import StandardScaler
 
 scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-X_test_scaled = scaler.transform(X_test)
+X_train_scaled = pd.DataFrame(scaler.fit_transform(X_train),columns=X_train.columns,index=X_train.index)
+
+X_test_scaled = pd.DataFrame(scaler.transform(X_test),columns=X_test.columns,index=X_test.index)
 
 # Logistic Regression
 log_model = LogisticRegression(solver="liblinear",max_iter=5000,random_state=42)
-log_model.fit(X_train, y_train)
+log_model.fit(X_train_scaled, y_train)
 
 # Random Forest
 rf_model = RandomForestClassifier(random_state=42)
@@ -257,6 +258,11 @@ new_applicants = pd.DataFrame({
 })
 
 new_scaled = scaler.transform(new_applicants)
+new_scaled = pd.DataFrame(
+    new_scaled,
+    columns=X.columns,
+    index=new_applicants.index
+)
 prediction = log_model.predict(new_scaled)
 probability = log_model.predict_proba(new_scaled)
 
